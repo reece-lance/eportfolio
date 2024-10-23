@@ -4,6 +4,8 @@
 
 ## Postgraduate Projects
 
+---
+
 ## [Deciphering Big Data](Deciphering_Big_Data/README.md)
 
 <img src="images/Deciphering-Big-Data.png?raw=true"/>

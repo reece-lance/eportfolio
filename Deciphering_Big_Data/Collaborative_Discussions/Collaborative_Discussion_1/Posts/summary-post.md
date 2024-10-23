@@ -1,5 +1,7 @@
 # Summary Post
 
+---
+
 The integration of the Internet of Things (IoT) into smart cities holds significant potential to revolutionise urban environments by enhancing efficiency, sustainability, and residents' quality of life. My initial post highlighted how IoT can optimise traffic management, reduce congestion, and improve public safety. However, peer feedback has prompted a deeper examination of the challenges related to privacy, security, and technical implementation.
 
 ### Key Insights and Feedback Reflections:
@@ -17,6 +19,8 @@ The high costs of IoT deployment and the complexities of managing vast amounts o
 While IoT offers transformative benefits for smart cities, the successful realisation of these opportunities hinges on addressing significant privacy, security, and technical challenges. Incorporating case studies, strengthening data governance, and investing in scalable infrastructures are crucial steps in ensuring the effective implementation of IoT in urban settings.
 
 This reflective process has enhanced my understanding of the complexities involved in IoT integration, guiding future research and analysis.
+
+---
 
 ## References:
 

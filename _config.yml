@@ -4,10 +4,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Hello! I'm Reece, a Data Scientist currently pursuing an MSc in Data Science at the University of Essex.
   <br><br>
-  <h2>Skills</h2>
+  <h4>Skills</h4>
   <ul>
-    <li><strong>Languages:</strong> Python, Java, R, SQL</li>
-    <li><strong>Tools:</strong> Power BI, Pandas, Scikit-learn, NumPy, Git</li>
+    <strong>Languages:</strong> Python, Java, R, SQL
+    <strong>Tools:</strong> Power BI, Pandas, Scikit-learn, NumPy, Git
   </ul>
   <br><br>
   <a href="https://www.linkedin.com/in/reece-lance/">View My LinkedIn Profile</a>

@@ -1,5 +1,7 @@
 # Initial Post
 
+---
+
 Various industries are being transformed by the Internet of Things (IoT), one of the most exciting being smart cities. Urban environments can be revolutionised by the integration of IoT, with changes made to the way they operate, increased efficiency, sustainability, and quality of life for the residents. These benefits are highlighted by Huxley (2020).
 
 Numerous technological benefits are offered to smart cities to improve urban living. Smart traffic management systems use IoT sensors and cameras to monitor traffic flow in real-time, dynamically adjusting traffic signals to reduce congestion and emissions (Zanella et al., 2014). Traffic congestion can also be caused by drivers searching for parking spaces; smart parking solutions can be used to guide drivers to available spaces. Additionally, IoT enhances public safety through smart surveillance systems and environmental monitoring to maintain healthier urban environments (Gubbi et al., 2013).
@@ -11,6 +13,8 @@ Security and privacy are rights that everyone should be entitled to; however, th
 Among many challenges of implementing IoT in smart cities are the issues with data privacy and the need for user consent. There are also technical challenges in terms of integrating IoT with existing systems. As mentioned before, the cost needed to facilitate these changes would require significant investment in infrastructure. Not to mention the continuous evolution of IoT technology and the requirement for ongoing updates and maintenance; this can be very resource-intensive (Weber, 2010). Developing scalable solutions to handle increasing data volumes is essential (Huxley, 2020).
 
 In conclusion, IoT offers immense opportunities to enhance smart cities’ liveability and efficiency. However, this does not come without many limitations; addressing financial, interoperability, and security challenges is crucial for successful implementation. Moreover, developing standardised protocols and robust security measures will be essential to mitigate risks and maximise IoT benefits in smart cities.
+
+---
 
 ## References
 

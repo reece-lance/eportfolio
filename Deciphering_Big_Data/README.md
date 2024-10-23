@@ -1,8 +1,3 @@
----
-layout: single
-title: "Deciphering Big Data"
-permalink: /deciphering-big-data/
----
 # Deciphering Big Data
 
 ## Module Overview

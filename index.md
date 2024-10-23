@@ -9,12 +9,12 @@
 <img src="images/Deciphering-Big-Data.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Machine Learning](/pdf/sample_presentation.pdf)
 
 <img src="images/Machine-Learning.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Research Methods and Professional Practice](http://example.com/)
 
 <img src="images/Research-Methods-and-Professional-Practice.png?raw=true"/>
 

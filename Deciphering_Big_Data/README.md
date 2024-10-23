@@ -23,8 +23,8 @@ The "Deciphering Big Data" module focuses on developing the skills necessary to 
 
 ### Collaborative Discussion Forum Summaries
 
-- [Collaborative Discussion 1 - The Data Collection Process (Units 1 - 3)](./Collaborative_Discussions/Collaborative_Discussion_1)
-- [Collaborative Discussion 2 - Comparing Compliance Laws (Units 8 - 10)](./Collaborative_Discussions/Collaborative_Discussion_2)
+- [Collaborative Discussion 1 - The Data Collection Process](./Collaborative_Discussions/Collaborative_Discussion_1)
+- [Collaborative Discussion 2 - Comparing Compliance Laws](./Collaborative_Discussions/Collaborative_Discussion_2)
 
 ---
 
@@ -32,8 +32,7 @@ The "Deciphering Big Data" module focuses on developing the skills necessary to 
 
 An overview of individual tasks completed, including:
 
-- [Data Cleaning (activities in Lecturecast in Unit 4)](./Individual_Tasks/data_cleaning_unit4.md)
-- [Data Cleaning Continued (activities in Lecturecast in Unit 5)](./Individual_Tasks/data_cleaning_unit5.md)
+- [Data Cleaning](./Individual_Tasks/data_cleaning_unit4.md)
 - [Normalisation Task (Unit 7)](./Individual_Tasks/normalisation_task_unit7.md)
 - [API Security Requirements (Unit 10)](./Individual_Tasks/api_security_requirements_unit10.md)
 

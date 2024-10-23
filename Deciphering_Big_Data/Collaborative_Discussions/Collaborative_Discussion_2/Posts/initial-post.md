@@ -1,5 +1,7 @@
 # Initial Post: GDPR and Anonymisation
 
+---
+
 A particularly exciting focus area of GDPR’s approach to data security is anonymisation and how it impacts how organisations can handle personal data. Anonymisation is highlighted by the GDPR and the Information Commissioner’s Office (ICO) as a key method for reducing the risk of data breaches. Once personal data is anonymised, it is no longer considered "personal" under GDPR, meaning many of the stricter security obligations no longer apply (GDPR-info.eu, 2023). This is especially appealing to businesses and researchers handling large datasets, as it allows for significant flexibility without constantly worrying about exposing sensitive information (European Union Agency for Cybersecurity, 2021).
 
 The ICO strongly recommends techniques like pseudonymisation and encryption, which reduce the risks associated with processing personal data while still allowing organisations to work with it. These methods are a core part of any strategy designed to comply with GDPR’s security obligations (ICO, 2021). Furthermore, anonymisation enables large-scale data analysis, such as in health research or marketing, without triggering the full weight of GDPR requirements (OneTrust, 2024).
@@ -9,6 +11,8 @@ However, there is growing concern over the effectiveness of anonymisation. Advan
 For example, research has shown that re-identification attacks have successfully uncovered individual identities from anonymised datasets, casting doubt on how long we can rely on anonymisation as a solid defence (Rocher, Hendrickx & de Montjoye, 2019). Organisations must now weigh whether investing in anonymisation technologies is a viable long-term solution or if stronger data protection measures, such as strict access controls and encryption, are more appropriate (European Union Agency for Cybersecurity, 2021).
 
 Is anonymisation a reliable strategy for long-term data security, or should organisations focus more on encryption and stricter access controls to keep data safe?
+
+---
 
 ## References
 - European Union (2016) General Data Protection Regulation (GDPR) (Regulation (EU) 2016/679). Available at: [https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R0679](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R0679) (Accessed: 23 September 2024).

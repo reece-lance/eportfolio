@@ -46,4 +46,4 @@ The feedback from my peers helped me reconsider certain aspects of my initial po
 ## Conclusion
 This discussion has helped deepen my understanding of the opportunities and challenges of IoT in smart cities. Feedback from peers highlighted the importance of real-world examples, emphasised privacy concerns, and offered a balanced view of the long-term benefits. Moving forward, I will ensure that my analyses of IoT include detailed case studies and robust discussions on privacy and security.
 
-[Summary Post](../Collaborative_Discussion_1/Posts/summary-post.md)
+### [Summary Post](../Collaborative_Discussion_1/Posts/summary-post.md)

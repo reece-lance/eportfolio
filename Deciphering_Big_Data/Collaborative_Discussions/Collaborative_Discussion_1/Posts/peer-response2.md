@@ -1,5 +1,7 @@
 # Peer Response 2
 
+---
+
 Hi Andrew,
 
 Your exploration of IoT in the context of Industry 4.0 presents a well-rounded analysis, particularly in addressing the challenges of standardisation and security. The issue of varied communication protocols among IoT devices is indeed a significant barrier to efficient integration. Sisinni et al. (2018) emphasise the necessity for establishing industry-wide standards to overcome these hurdles. It might be beneficial to consider how global partnerships or policy initiatives could accelerate the development of these standards.
@@ -9,6 +11,8 @@ Additionally, your focus on the cybersecurity challenges linked to IoT is very p
 Moreover, your discussion of the potential advantages of IoT, such as improved predictive maintenance, is insightful. However, addressing the complexities you've identified is crucial for fully realising these benefits. It might be useful to include examples where companies have successfully navigated these challenges to demonstrate practical applications of your points.
 
 In summary, your post provides a strong foundation in discussing both the potential and the obstacles of IoT in Industry 4.0. I look forward to seeing how these challenges can be addressed to optimise the benefits of IoT.
+
+---
 
 ## References
 

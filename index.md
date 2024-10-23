@@ -1,7 +1,5 @@
 # e-Portfolio
 
----
-
 ## Postgraduate Projects
 
 [Deciphering Big Data](/sample_page)

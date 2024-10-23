@@ -30,17 +30,20 @@ The "Deciphering Big Data" module focuses on developing the skills necessary to 
 
 ### [Team Exercise Outcomes](./Individual_Tasks/README.md)
 
-An overview of individual tasks completed, including:
+An overview of team contributions, including:
 
-- [Data Cleaning](./Individual_Tasks/data_cleaning_unit4.md)
-- [Normalisation Task (Unit 7)](./Individual_Tasks/normalisation_task_unit7.md)
-- [API Security Requirements (Unit 10)](./Individual_Tasks/api_security_requirements_unit10.md)
+- [Project planning]
+- [Project planning]
 
 ---
 
 ### [Individual Portfolio Pieces](./Individual_Tasks/README.md)
 
-Detailed documentation of individual tasks and learning reflections.
+An overview of individual tasks completed, including:
+
+- [Data Cleaning](./Individual_Tasks/data_cleaning_unit4.md)
+- [Normalisation Task (Unit 7)](./Individual_Tasks/normalisation_task_unit7.md)
+- [API Security Requirements (Unit 10)](./Individual_Tasks/api_security_requirements_unit10.md)
 
 ---
 

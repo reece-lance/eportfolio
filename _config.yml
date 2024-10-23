@@ -3,7 +3,7 @@ logo: "/images/logo.png?raw=true"
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br><br>
   Hello! I'm Reece, a Data Scientist currently pursuing an MSc in Data Science at the University of Essex.
-  <h4>Skills</h4>
+  <h3>Skills</h3>
   <strong>Languages:</strong> Python, Java, R, SQL
   <strong>Tools:</strong> Power BI, Pandas, Scikit-learn, NumPy, Git
   <a href="https://www.linkedin.com/in/reece-lance/">View My LinkedIn Profile</a>

@@ -4,7 +4,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Hello! I'm Reece, a Data Scientist currently pursuing an MSc in Data Science at the University of Essex.
   <h3>Skills</h3>
-  <strong>Languages:</strong> Python, Java, R, SQL <\n>
+  <strong>Languages:</strong> Python, Java, R, SQL \n
   <strong>Tools:</strong> Power BI, Pandas, Scikit-learn, NumPy, Git
   <br><br>
   <a href="https://www.linkedin.com/in/reece-lance/">View My LinkedIn Profile</a>

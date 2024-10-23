@@ -6,11 +6,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   I specialize in Python, Java, and data-driven solutions to real-world problems.
   <br><br>
-  <a href="https://www.linkedin.com/in/reece-lance/"><i class="fab fa-linkedin"></i>View My LinkedIn Profile</a>
+  <a href="https://www.linkedin.com/in/reece-lance/">View My LinkedIn Profile</a>
   <br><br>
-  <a href="https://github.com/reece-lance/"><i class="fab fa-github"></i>View My GitHub Profile</a>
+  <a href="https://github.com/reece-lance/">View My GitHub Profile</a>
   <br><br>
-  <a href="mailto:reecelance@gmail.com"><i class="fas fa-envelope"></i>Email Me</a>
+  <a href="mailto:reecelance@gmail.com">Email Me</a>
   <br><br>
   
 theme: jekyll-theme-minimal

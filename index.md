@@ -6,17 +6,17 @@
 
 ---
 
-## [Deciphering Big Data](Deciphering_Big_Data/README.md)
+### [Deciphering Big Data](Deciphering_Big_Data/README.md)
 
 <img src="images/Deciphering-Big-Data.png?raw=true"/>
 
 ---
-## [Machine Learning](/pdf/sample_presentation.pdf)
+### [Machine Learning](/pdf/sample_presentation.pdf)
 
 <img src="images/Machine-Learning.png?raw=true"/>
 
 ---
-## [Research Methods and Professional Practice](http://example.com/)
+### [Research Methods and Professional Practice](http://example.com/)
 
 <img src="images/Research-Methods-and-Professional-Practice.png?raw=true"/>
 

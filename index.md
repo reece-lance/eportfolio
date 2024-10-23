@@ -2,18 +2,18 @@
 
 ---
 
-### Category Name 1 
+### Postgraduate Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Deciphering Big Data](/sample_page)
+<img src="images/Deciphering-Big-Data.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Machine-Learning.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Research-Methods-and-Professional-Practice.png?raw=true"/>
 
 ---
 

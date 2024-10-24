@@ -28,16 +28,24 @@ The "Deciphering Big Data" module focuses on developing the skills necessary to 
 
 ---
 
-### [Team Exercise Outcomes](./Individual_Tasks/README.md)
+### [Team Project](./Individual_Tasks/README.md)
 
-An overview of team contributions, including:
+An overview of my contributions to the team, including:
 
 - [Project planning]
 - [Project planning]
+
+### Meeting Notes
+
+A summary of notes made during meetings with my peers:
+
+- Note 1
+- Note 2
+- Note 3
 
 ---
 
-### [Individual Portfolio Pieces](./Individual_Tasks/README.md)
+### [Individual Work](./Individual_Tasks/README.md)
 
 An overview of individual tasks completed, including:
 
@@ -47,6 +55,37 @@ An overview of individual tasks completed, including:
 
 ---
 
-### [Professional Development Plan](./Professional_Development/professional_development_plan.md)
+## Professional Development Plan
 
-- This plan includes the development goals set during the module, feedback from peers and tutors, and reflections on growth and learning strategies.
+---
+
+### My Reflections
+
+Key points from my [Full Reflective Piece](./Individual_Tasks/README.md):
+
+- Key Point 1
+- Key Point 2
+- Key Point 3
+
+---
+
+### [Professional skills gained or enhanced:](./Professional_Development/professional_development_plan.md)
+
+- Time management
+- Commercial awareness
+- Critical thinking and analysis
+- Communication and literacy skills
+- IT and digital
+- Numeracy
+- Research
+- Interpersonal
+- Problem-solving
+- Ethical awareness
+- Teamwork/global citizen and leadership
+- Critical reflection
+
+---
+
+### Action Plan
+
+[Here](./Professional_Development/professional_development_plan.md) is how I plan to use these skills in the future.

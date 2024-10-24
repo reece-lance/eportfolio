@@ -55,6 +55,28 @@ teachers_df.to_sql('Teachers', conn, if_exists='replace', index=False)
 student_courses_df = pd.read_csv('Deciphering_Big_Data/Individual_Work/Normalisation/data/student_courses.csv')
 student_courses_df.to_sql('Student_Courses', conn, if_exists='replace', index=False)
 
+# Test the Database by querying
+
+# Fetch all students
+print("Students Table:")
+for row in cursor.execute('SELECT * FROM Students'):
+    print(row)
+
+# Fetch all courses
+print("\nCourses Table:")
+for row in cursor.execute('SELECT * FROM Courses'):
+    print(row)
+
+# Fetch all teachers
+print("\nTeachers Table:")
+for row in cursor.execute('SELECT * FROM Teachers'):
+    print(row)
+
+# Fetch all student-course enrollments
+print("\nStudent_Courses Table:")
+for row in cursor.execute('SELECT * FROM Student_Courses'):
+    print(row)
+
 # Commit the transaction and close the connection
 conn.commit()
 conn.close()

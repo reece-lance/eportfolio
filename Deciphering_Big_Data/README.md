@@ -45,8 +45,6 @@ This team project involved designing a logical database for Transport for London
 
 *[Examples of my work](./Team_Exercises/README.md)*
 
-#### Feedback
-
 #### Feedback Received:
 - **Strengths:**
   - The report demonstrated a good understanding of module topics and practical application.

@@ -61,8 +61,8 @@ A summary of notes made during meetings with my peers:
 An overview of individual tasks completed, including:
 
 - [Data Cleaning](./Individual_Work/data_cleaning/README.md)
-- [Normalisation](./Individual_Tasks/Normalisation/README.md)
-- [API Security Requirements](./Individual_Tasks/API_Security_Requirements/README.md)
+- [Normalisation](./Individual_Work/Normalisation/README.md)
+- [API Security Requirements](./Individual_Work/API_Security_Requirements/README.md)
 
 ---
 

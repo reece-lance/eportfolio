@@ -8,6 +8,8 @@ This task involved normalising un-normalised data related to students, their cou
 ## 1NF - First Normal Form
 In 1NF, repeating groups were removed by making sure all attributes had atomic values.
 
+<div style="overflow-x: auto;">
+  
 | Student Number | Student Name  | Exam Score | Support | Date of Birth | Course Name      | Exam Board | Teacher Name |
 |----------------|---------------|------------|---------|---------------|------------------|------------|--------------|
 | 1001           | Bob Baker     | 78         | No      | 25/08/2001    | Computer Science | BCS        | Mr Jones     |
@@ -26,11 +28,15 @@ In 1NF, repeating groups were removed by making sure all attributes had atomic v
 | 1005           | Cheuk Yin     | 45         | Yes     | 01/05/2002    | Maths            | EdExcel    | Ms Parker    |
 | 1005           | Cheuk Yin     | 45         | Yes     | 01/05/2002    | Music            | AQA        | Ms Daniels   |
 
+</div>
+
 ---
 
 ## 2NF - Second Normal Form
 In 2NF, partial dependencies were removed by splitting the data into two tables: one for student-specific details and one for course-related information.
 
+<div style="overflow-x: auto;">
+  
 ### Students Table
 | Student Number | Student Name   | Date of Birth | Exam Score | Support |
 |----------------|----------------|---------------|------------|---------|
@@ -40,6 +46,10 @@ In 2NF, partial dependencies were removed by splitting the data into two tables:
 | 1004           | Anas Ali       | 03/08/1980    | 70         | No      |
 | 1005           | Cheuk Yin      | 01/05/2002    | 45         | Yes     |
 
+</div>
+
+<div style="overflow-x: auto;">
+  
 ### Student_Courses Table
 | Student Number | Course Name      | Exam Board | Teacher Name |
 |----------------|------------------|------------|--------------|
@@ -59,11 +69,15 @@ In 2NF, partial dependencies were removed by splitting the data into two tables:
 | 1005           | Maths            | EdExcel    | Ms Parker    |
 | 1005           | Music            | AQA        | Ms Daniels   |
 
+</div>
+
 ---
 
 ## 3NF - Third Normal Form
 In 3NF, transitive dependencies were removed by separating the `Teacher Name` into a new table linked to the `Course Name`.
 
+<div style="overflow-x: auto;">
+  
 ### Courses Table
 | Course Name      | Exam Board |
 |------------------|------------|
@@ -73,6 +87,10 @@ In 3NF, transitive dependencies were removed by separating the `Teacher Name` in
 | Biology          | WJEC       |
 | Music            | AQA        |
 
+</div>
+
+<div style="overflow-x: auto;">
+  
 ### Teachers Table
 | Course Name      | Teacher Name |
 |------------------|--------------|
@@ -82,6 +100,10 @@ In 3NF, transitive dependencies were removed by separating the `Teacher Name` in
 | Biology          | Mrs Patel    |
 | Music            | Ms Daniels   |
 
+</div>
+
+<div style="overflow-x: auto;">
+  
 ### Student_Courses Table (Final)
 | Student Number | Course Name      |
 |----------------|------------------|
@@ -100,6 +122,8 @@ In 3NF, transitive dependencies were removed by separating the `Teacher Name` in
 | 1005           | Computer Science |
 | 1005           | Maths            |
 | 1005           | Music            |
+
+</div>
 
 ---
 

@@ -43,6 +43,7 @@ pip install pandas sqlite3 openpyxl
 3. The database will be created as `student_course_database.db` in the current directory, with all data imported into the relevant tables.
 
 Here is the [Full Code](Deciphering_Big_Data/Individual_Work/Data_Build/data-build.py).
+Here is the [Database](Deciphering_Big_Data/Individual_Work/Data_Build/student_course_database.db).
 
 ## References
 

@@ -41,13 +41,17 @@ An overview of [my contributions to the team](./Team_Exercises/README.md), inclu
 
 Here is the [Final Project Report (Download)](./Team_Exercises/final-report.docx)
 
+---
+
 ### Meeting Notes
 
 A summary of notes made during meetings with my peers:
 
-- Note 1
-- Note 2
-- Note 3
+- Followed the team contract process to assess skills and allocate tasks accordingly.
+- Agreed on the project goal and selected Transport for London as the target organisation for the database system.
+- Set deadlines for tasks to ensure productive meetings and review progress effectively.
+- Documented meeting minutes and task outcomes in the collaborative discussion forum on the student portal.
+- Explained the primary and foreign keys for the database and determined how to split the data.
 
 ---
 

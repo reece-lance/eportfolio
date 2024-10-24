@@ -79,27 +79,6 @@ df.to_csv('cleaned_data.csv', index=False)
 print("Data cleaning completed and saved as cleaned_data.csv.")
 ```
 
-### Key Outcomes
-
-- **Effective Collaboration:** Established strong communication channels, ensuring all team members were informed, and tasks were coordinated efficiently. This resulted in meeting deadlines and maintaining a consistent workflow.
-- **Logical Database Design:** Successfully designed a logical database featuring multiple tables, such as 'Stations', 'Routes', 'Vehicles', and 'Schedules', each representing key entities relevant to TfL operations. The design incorporated normalization techniques to minimize redundancy and maintain data integrity.
-- **Data Pipeline Implementation:** The developed data pipeline efficiently retrieved, cleaned, and formatted data, enabling seamless integration into the chosen DBMS. This was achieved using Python, with the pipeline scripts automating data handling processes.
-- **Enhanced Technical Skills:** Gained experience with API integration, data cleaning using Python libraries, and collaborative project management.
-
-### Challenges Faced and Solutions
-
-1. **Interoperability Issues Between Tools:**
-   - *Challenge:* Encountered difficulties integrating data from various sources due to differences in formats (e.g., JSON, CSV).
-   - *Solution:* Used Python’s pandas library to standardize the data formats and ensure compatibility with the database schema.
-
-2. **Time Management Constraints:**
-   - *Challenge:* Coordinating tasks with team members who had varying availability and skill levels.
-   - *Solution:* Created a detailed project plan with milestones, enabling the team to track progress and adjust workloads as needed.
-
-3. **Feedback on Report Content:**
-   - *Challenge:* The report feedback indicated a need for more depth in logical design and clearer explanations in the data management pipeline.
-   - *Solution:* Plan to incorporate more detailed descriptions and diagrams in future reports and ensure a tighter focus on the core requirements by continuously aligning with assignment guidelines.
-
 ### Feedback
 
 #### Feedback Received:

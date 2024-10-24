@@ -100,7 +100,7 @@ print("Data cleaning completed and saved as cleaned_data.csv.")
    - *Challenge:* The report feedback indicated a need for more depth in logical design and clearer explanations in the data management pipeline.
    - *Solution:* Plan to incorporate more detailed descriptions and diagrams in future reports and ensure a tighter focus on the core requirements by continuously aligning with assignment guidelines.
 
-### Feedback and Reflection
+### Feedback
 
 #### Feedback Received:
 - **Strengths:**
@@ -109,18 +109,6 @@ print("Data cleaning completed and saved as cleaned_data.csv.")
 - **Areas for Improvement:**
   - More depth was needed in describing the logical design, particularly the ER diagrams.
   - The data management pipeline section required further elaboration and a clearer focus on essential elements.
-
-#### Reflection:
-
-Based on the feedback, I realised the importance of providing more detailed explanations and visual aids, such as ER diagrams, to convey the logical design more effectively. Additionally, I learned that adhering strictly to assignment requirements and avoiding unnecessary sections can strengthen the clarity and impact of a report.
-
-**Key Learnings:**
-- **Depth and Detail Matter:** Providing thorough explanations and visual aids (e.g., diagrams) can significantly improve the understanding of complex topics.
-- **Clear Focus on Requirements:** It is essential to focus only on the required elements of the assignment to avoid diluting the report's effectiveness.
-- **Importance of Team Dynamics:** Effective communication and task management are critical to the success of any team project, especially in a virtual environment.
-
-**Future Application:**
-I will apply these lessons by enhancing my technical documentation skills, focusing more on visual aids, and continuing to improve my ability to lead and coordinate team projects effectively.
 
 ### Conclusion
 

@@ -66,7 +66,7 @@ Enhanced logical design: The final project improved the relational integrity, wi
 DBMS evaluation: The final submission provided a thorough evaluation of PostgreSQL’s suitability, which was only briefly mentioned in the initial proposal.
 In conclusion, the final project offered a more complete, scalable, and secure solution, building on the foundations of the initial proposal while addressing practical data management needs more effectively.
 
-Here is the [Final Project Report (Download)](./Team_Exercises/final-report.docx)
+Here is the [Final Project Report (Download)](./Individual_Work/final-report.docx)
 
 ---
 

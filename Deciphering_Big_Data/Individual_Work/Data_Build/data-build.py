@@ -77,7 +77,29 @@ print("\nStudent_Courses Table:")
 for row in cursor.execute('SELECT * FROM Student_Courses'):
     print(row)
 
-# Commit the transaction and close the connection
+# Test: Delete a student and verify cascading deletes
+def test_delete_student(conn):
+    cursor = conn.cursor()
+
+    # Deleting student with student_number = 1001 (Bob Baker)
+    print("\nDeleting student with student_number = 1001 (Bob Baker)...")
+    cursor.execute('DELETE FROM Students WHERE student_number = 1001')
+
+    # Verify that the student's records were also removed from Student_Courses
+    print("Checking if the student's course enrollments were deleted from Student_Courses...")
+    cursor.execute('SELECT * FROM Student_Courses WHERE student_number = 1001')
+    rows = cursor.fetchall()
+
+    if len(rows) == 0:
+        print("Cascading delete successful. No course enrollments found for student 1001.")
+    else:
+        print("Cascading delete failed. There are still course enrollments for student 1001.")
+    
+    conn.commit()
+
+# Run the delete test after the data is inserted
+test_delete_student(conn)
+
 conn.commit()
 conn.close()
 

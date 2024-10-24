@@ -32,8 +32,12 @@ The "Deciphering Big Data" module focuses on developing the skills necessary to 
 
 An overview of [my contributions to the team](./Team_Exercises/README.md), including:
 
-- Project planning
-- Project planning
+- Communication and Coordination
+- Task Assignment and Planning
+- Data Management Pipeline Development:
+  - Data Retrieval
+  - Data Cleaning
+  - Data Preparation for Database Loading
 
 Here is the [Final Project Report (Download)](./Team_Exercises/final-report.docx)
 

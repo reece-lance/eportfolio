@@ -4,24 +4,6 @@
 
 This task involved cleaning and processing a 9,008-row, 159-column Unicef dataset to prepare it for analysis and store it in a SQLite database. Key steps included header replacement, resolving column mismatches, removing duplicates, handling missing values, normalising data, and ensuring SQLite compatibility.
 
-### Learning Objectives
-
-- Understand and apply data cleaning techniques.
-- Evaluate outcomes for data design and automation.
-- Compile and document Python scripts.
-- Convert datasets into various formats.
-
-### Detailed Objectives
-
-- **Load the dataset** and ensure it is correctly read into memory.
-- **Replace headers** from a provided header file, resolving any mismatches.
-- **Handle column mismatches** by aligning headers with the dataset.
-- **Remove duplicates** to maintain data consistency.
-- **Handle missing values** by filling numeric columns with mean values.
-- **Normalise numeric data** for consistent scaling.
-- **Sanitise column names** for SQLite compatibility.
-- **Save the cleaned dataset** into a SQLite database for querying and analysis.
-
 ## Steps Completed
 
 ### 1. **Data Loading**
@@ -62,8 +44,3 @@ This task involved cleaning and processing a 9,008-row, 159-column Unicef datase
 - Ensure Python 3.x is installed along with the required libraries:
   ```bash
   pip install pandas numpy sqlite3
-
----
-
-## References
-

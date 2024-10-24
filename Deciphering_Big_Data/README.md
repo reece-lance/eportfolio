@@ -86,22 +86,31 @@ Key points from my [Full Reflective Piece](./Professional_Development/reflection
 
 ### Professional Skills Gained
 
-Here are the key skills from the [Full List](./Professional_Development/skills-gained.md):
-- Time management
-- Commercial awareness
-- Critical thinking and analysis
-- Communication and literacy skills
-- IT and digital
-- Numeracy
-- Research
-- Interpersonal
-- Problem-solving
-- Ethical awareness
-- Teamwork/global citizen and leadership
-- Critical reflection
+I have gained or enhanced the following skills:
+
+- **Time Management:** Managing the TfL database project and discussions improved my ability to prioritise tasks and meet deadlines.
+- **Commercial Awareness:** Case studies like IoT in smart cities deepened my understanding of data's commercial applications and long-term benefits.
+- **Critical Thinking:** Processing and cleaning complex datasets, such as the Unicef dataset, honed my ability to critically evaluate challenges and solutions.
+- **Communication:** Leading team discussions and writing reports improved my ability to explain technical concepts to diverse audiences.
+- **IT and Digital Skills:** Implementing data pipelines and integrating APIs enhanced my technical proficiency in Python and data science tools.
+- **Numeracy:** Handling large datasets and normalising values improved my numerical analysis skills.
+- **Research Skills:** Exploring data privacy laws, like GDPR, sharpened my understanding of legal and ethical data handling requirements.
+- **Interpersonal Skills:** Coordinating team communication strengthened my collaboration and teamwork abilities.
+- **Problem-Solving:** Overcoming challenges in API data retrieval and database design developed my problem-solving capabilities.
+- **Ethical Awareness:** Discussions on data privacy and anonymisation heightened my awareness of ethical issues.
+- **Teamwork and Leadership:** Leading the TfL project and ensuring task alignment enhanced my leadership and teamwork.
+- **Critical Reflection:** Peer feedback during discussions prompted me to reflect and refine my approach to technical challenges.
+
+These skills are vital to my professional growth and will serve as a foundation for future roles in data science.
 
 ---
 
 ### Action Plan
 
-[Here](./Professional_Development/action-plan.md) is how I plan to use these skills in the future.
+To build on the skills developed during the **Deciphering Big Data** module, my action plan focuses on advancing my technical and strategic capabilities:
+
+- **Deepen API Security Expertise**: I will further explore API security, particularly focusing on advanced topics like token management, encryption protocols, and authentication mechanisms through resources like OWASP.
+- **Enhance Database Optimisation**: To improve performance with larger datasets, I will study indexing strategies and best practices for database optimisation, ensuring scalability and efficiency in future projects.
+- **Stay Updated on Data Regulations**: I will continue to monitor evolving data protection regulations, especially GDPR and ICO guidelines, to stay informed about the latest compliance requirements for data security and privacy.
+- **Develop Machine Learning Skills**: Expanding my knowledge in machine learning will allow me to handle more complex data problems and contribute to predictive analytics tasks, which are key in data science.
+- **Improve Team Leadership**: Building on the leadership experience gained during the TfL project, I will seek opportunities to lead small projects and continue developing my ability to manage teams in a professional setting.

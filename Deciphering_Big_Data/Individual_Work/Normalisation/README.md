@@ -108,6 +108,10 @@ In 3NF, transitive dependencies were removed by separating the `Teacher Name` in
 
 ---
 
+This was done using Python's Pandas, [here is the full code](Deciphering_Big_Data/Individual_Work/Normalisation/normalisation.py).
+
+---
+
 ## References
 
 Brumm, B. (2023) *Normalization in SQL DBMS: 1NF, 2NF, 3NF, and BCNF Examples*. POPSQL, 26 July. Available at: [https://popsql.com/blog/normalization-in-sql](https://popsql.com/blog/normalization-in-sql) (Accessed: 24 October 2024).

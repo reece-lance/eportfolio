@@ -13,19 +13,10 @@
   </head>
   <body>
     <div class="wrapper">
-      <header>
-        <!-- Only show the title and logo if needed, otherwise hide them -->
-        {% if layout != 'fullwidth' %}
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        
-        {% if site.logo %}
-          <img src="{{ site.logo | relative_url }}" alt="Logo" />
-        {% endif %}
-        {% endif %}
-      </header>
-
+      <!-- No header to display logo or title in fullwidth -->
+      
       <!-- Main Content Section -->
-      <section class="content" style="width: 100%;">
+      <section class="content" style="width: 100%; padding-top: 20px;">
         {{ content }}
       </section>
 

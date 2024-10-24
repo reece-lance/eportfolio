@@ -43,7 +43,7 @@ This team project involved designing a logical database for Transport for London
   - **Data Cleaning:** Implemented data cleaning techniques, such as handling missing values and removing duplicates, using Python libraries (e.g., `pandas`).
   - **Data Preparation for Database Loading:** Structured the cleaned data to be compatible with the chosen DBMS format, including normalising data to reduce redundancy.
 
-*[Examples of my work](/.)*
+*[Examples of my work](./Team_Exercises/README.md)*
 
 #### Feedback
 

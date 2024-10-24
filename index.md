@@ -1,3 +1,7 @@
+---
+layout: with-profile
+---
+
 # e-Portfolio
 
 ---

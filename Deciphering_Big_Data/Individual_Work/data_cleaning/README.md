@@ -1,8 +1,8 @@
-# Data Cleaning Task - Unit 4
+# Data Cleaning Task
 
 ## Task Description
 
-This is a task focused on cleaning and processing a [Unicef dataset](./data/unit-4/mn.csv) with 9,008 rows and 159 columns. The aim of this task was to apply a variety of data cleaning techniques to prepare the dataset for further analysis and store the cleaned data in a SQLite database. The key steps included header replacement, handling column mismatches, removing duplicates, dealing with missing values, normalising numeric data, and ensuring the dataset was formatted for SQLite compatibility.
+This is a task focused on cleaning and processing a [Unicef dataset](./data/mn.csv) with 9,008 rows and 159 columns. The aim of this task was to apply a variety of data cleaning techniques to prepare the dataset for further analysis and store the cleaned data in a SQLite database. The key steps included header replacement, handling column mismatches, removing duplicates, dealing with missing values, normalising numeric data, and ensuring the dataset was formatted for SQLite compatibility.
 
 ## Learning Objectives
 
@@ -53,9 +53,9 @@ This is a task focused on cleaning and processing a [Unicef dataset](./data/unit
 ## Results
 
 - The final cleaned dataset contains 9,008 rows and 159 columns.
-- The data has been cleaned, normalised, and stored in an [SQLite database (`cleaned_data.db`)](./data/unit-4/cleaned_data.db), where it can be easily accessed and queried.
+- The data has been cleaned, normalised, and stored in an [SQLite database (`cleaned_data.db`)](./data/cleaned_data.db), where it can be easily accessed and queried.
 
-## Instructions for Running the [Code](./scripts/unit-4/data-cleaning.py)
+## Instructions for Running the [Code](./data-cleaning.py)
 
 ### Prerequisites
 

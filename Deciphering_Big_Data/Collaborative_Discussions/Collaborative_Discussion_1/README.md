@@ -1,3 +1,7 @@
+---
+show_profile: false
+---
+
 # Collaborative Discussion Summary: The Data Collection Process
 
 ---

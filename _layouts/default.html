@@ -16,7 +16,7 @@
       <!-- No header to display logo or title in fullwidth -->
       
       <!-- Main Content Section -->
-      <a href="../" style="text-decoration:none; background-color:#A9A9A9; color:white; padding:5px 10px; border-radius:5px;">← Back </a>
+      <a href="{{ page.url | replace: page.url | prepend: '../' }}" style="text-decoration:none; background-color:#A9A9A9; color:white; padding:5px 10px; border-radius:5px;">← Back</a>
       <br>
       <section class="content" style="width: 100%; padding-top: 20px;">
         {{ content }}

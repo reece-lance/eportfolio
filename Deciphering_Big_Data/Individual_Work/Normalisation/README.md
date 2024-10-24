@@ -1,7 +1,7 @@
 # Normalisation
 
 ## Task Description
-This task involved normalising un-normalised data related to students, their courses, teachers, and exam boards. The objective was to organise the data into 3rd Normal Form (3NF) by eliminating repeating groups, partial dependencies, and transitive dependencies. The process was carried out in three steps: 1NF, 2NF, and 3NF, with each step focusing on reducing redundancy and ensuring data integrity.
+This task involved normalising student, course, teacher, and exam board data into 3rd Normal Form (3NF) by eliminating repeating groups, partial dependencies, and transitive dependencies to reduce redundancy and ensure data integrity. The process was completed in three steps: 1NF, 2NF, and 3NF.
 
 ---
 

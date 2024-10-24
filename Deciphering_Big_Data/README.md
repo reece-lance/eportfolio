@@ -72,7 +72,7 @@ An overview of individual tasks completed, including:
 
 ### My Reflections
 
-Key points from my [Full Reflective Piece](./Deciphering_Big_Data/Professional_Development/reflection.md):
+Key points from my [Full Reflective Piece](./Professional_Development/reflection.md):
 
 - Key Point 1
 - Key Point 2
@@ -82,7 +82,7 @@ Key points from my [Full Reflective Piece](./Deciphering_Big_Data/Professional_D
 
 ### Professional Skills Gained
 
-Here are the key skills from the [Full List](./Professional_Development/professional_development_plan.md):
+Here are the key skills from the [Full List](./Professional_Development/skills-gained.md):
 - Time management
 - Commercial awareness
 - Critical thinking and analysis
@@ -100,4 +100,4 @@ Here are the key skills from the [Full List](./Professional_Development/professi
 
 ### Action Plan
 
-[Here](./Professional_Development/professional_development_plan.md) is how I plan to use these skills in the future.
+[Here](./Professional_Development/action-plan.md) is how I plan to use these skills in the future.

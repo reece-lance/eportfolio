@@ -35,7 +35,7 @@ An overview of [my contributions to the team](./Team_Exercises/README.md), inclu
 - Project planning
 - Project planning
 
-Here is the [Final Project Report](./Team_Exercises/final-report.docx)
+Here is the [Final Project Report (Download)](./Team_Exercises/final-report.docx)
 
 ### Meeting Notes
 

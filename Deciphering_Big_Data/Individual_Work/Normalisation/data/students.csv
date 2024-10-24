@@ -1,0 +1,7 @@
+student_number,student_name,date_of_birth,exam_score,support
+1001.0,Bob Baker,2001-08-25,78.0,No
+,,,,
+1002.0,Sally Davies,1999-10-02,55.0,Yes
+1003.0,Mark Hanmill,1995-06-05,90.0,No
+1004.0,Anas Ali,1980-08-03,70.0,No
+1005.0,Cheuk Yin,2002-05-01,45.0,Yes

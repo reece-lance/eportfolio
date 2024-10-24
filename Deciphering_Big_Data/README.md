@@ -76,9 +76,11 @@ An overview of individual tasks completed, including:
 
 Key points from my [Full Reflective Piece](./Professional_Development/reflection.md):
 
-- Key Point 1
-- Key Point 2
-- Key Point 3
+- Peer feedback deepened my understanding of IoT privacy/security.
+- Tackled data cleaning challenges, improving problem-solving.
+- Collaboration enhanced project outcomes and learning.
+- Adopted a security-first approach in API work.
+- Led team efforts, improving communication and leadership.
 
 ---
 

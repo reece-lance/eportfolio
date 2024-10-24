@@ -20,7 +20,7 @@
           <img src="{{ site.logo | relative_url }}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <!-- We remove site.description here so it doesn't appear in fullwidth -->
       </header>
 
       <!-- Main Content Section -->

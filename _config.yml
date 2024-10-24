@@ -1,12 +1,15 @@
 title: Reece Lance
 logo: "/images/logo.png?raw=true"
 description: >
+  <hr>
   <h3>Academic Achievements</h3>
   <p><strong>MSc Data Science: </strong>In progress</p>
   <p><strong>BSc Data Science: </strong>First Class Honours</p>
+  <hr>
   <h3>Skills</h3>
   <p><strong>Languages:</strong> Python, Java, R, SQL</p>
   <p><strong>Tools:</strong> Power BI, Pandas, Scikit-learn, NumPy, Git</p>
+  <hr>
   <a href="https://www.linkedin.com/in/reece-lance/">View My LinkedIn Profile</a>
   <br><br>
   <a href="https://github.com/reece-lance/">View My GitHub Profile</a>

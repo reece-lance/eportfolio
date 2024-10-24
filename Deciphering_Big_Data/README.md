@@ -47,11 +47,12 @@ Here is the [Final Project Report (Download)](./Team_Exercises/final-report.docx
 
 A summary of notes made during meetings with my peers:
 
-- Followed the team contract process to assess skills and allocate tasks accordingly.
+- Discussed skills to assess and allocate tasks accordingly.
 - Agreed on the project goal and selected Transport for London as the target organisation for the database system.
 - Set deadlines for tasks to ensure productive meetings and review progress effectively.
 - Documented meeting minutes and task outcomes in the collaborative discussion forum on the student portal.
 - Explained the primary and foreign keys for the database and determined how to split the data.
+- Listened to my peers discuss their findings and contributions
 
 ---
 

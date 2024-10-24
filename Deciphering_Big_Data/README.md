@@ -1,5 +1,5 @@
 ---
-layout: fullwidth
+layout: default
 ---
 
 # Deciphering Big Data

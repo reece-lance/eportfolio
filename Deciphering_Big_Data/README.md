@@ -32,7 +32,7 @@ The "Deciphering Big Data" module focuses on developing the skills necessary to 
 
 #### Overview
 
-This team project involved designing a logical database for Transport for London (TfL). Our goal was to create a robust and efficient database solution to manage large volumes of transport data. The project required collaboration on database design, data management pipeline creation, and critical evaluation of the selected database management system (DBMS). The team's task was to deliver a comprehensive report that met the client's needs, adhered to best practices in database design, and demonstrated an understanding of data management principles.
+This project involved designing a logical database for Transport for London (TfL) to efficiently manage large volumes of transport data. Our team collaborated on the database design, developed a data management pipeline, and critically evaluated the chosen DBMS. The aim was to produce a comprehensive report that adhered to best practices in database design and demonstrated strong data management principles.
 
 #### My Role and Contributions
 
@@ -59,9 +59,10 @@ Here is the [Initial Logical Design Report (Download)](./Team_Exercises/initial-
 
 The final project significantly expanded upon the initial proposal, providing greater detail and addressing practical challenges more comprehensively. Key differences include:
 
-API integration: The final report described the full process of capturing, cleaning, and normalising data from TfL’s API, refining the initial concept.
-Enhanced logical design: The final project improved the relational integrity, with deeper focus on primary/foreign keys and achieving normalisation to 3NF.
-DBMS evaluation: The final submission provided a thorough evaluation of PostgreSQL’s suitability, which was only briefly mentioned in the initial proposal.
+**API integration:** The final report described the full process of capturing, cleaning, and normalising data from TfL’s API, refining the initial concept.
+**Enhanced logical design:** The final project improved the relational integrity, with deeper focus on primary/foreign keys and achieving normalisation to 3NF.
+**DBMS evaluation:** The final submission provided a thorough evaluation of PostgreSQL’s suitability, which was only briefly mentioned in the initial proposal.
+
 In conclusion, the final project offered a more complete, scalable, and secure solution, building on the foundations of the initial proposal while addressing practical data management needs more effectively.
 
 Here is the [Final Project Report (Download)](./Individual_Work/final-report.docx)

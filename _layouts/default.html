@@ -48,17 +48,17 @@
         <!-- Sidebar/Profile Section -->
         {% if page.show_profile %}
         <aside class="sidebar" style="width: 250px; margin-right: 20px;">
-          <img src="path_to_your_image" alt="Profile Picture" />
+          <img src="{{ site.profile_image | relative_url }}" alt="Profile Picture" />
           <h2>{{ site.author }}</h2>
           <p>Academic Achievements</p>
           <ul>
-            <li>MSc Data Science: In progress</li>
-            <li>BSc Data Science: First Class Honours</li>
+            <li>{{ site.academic.msc }}</li>
+            <li>{{ site.academic.bsc }}</li>
           </ul>
           <p>Skills</p>
           <ul>
-            <li>Languages: Python, Java, R, SQL</li>
-            <li>Tools: Power BI, Pandas, Scikit-learn, NumPy, Git</li>
+            <li>{{ site.skills.languages }}</li>
+            <li>{{ site.skills.tools }}</li>
           </ul>
           <p><a href="{{ site.linkedin }}">View My LinkedIn Profile</a></p>
           <p><a href="{{ site.github_profile }}">View My GitHub Profile</a></p>

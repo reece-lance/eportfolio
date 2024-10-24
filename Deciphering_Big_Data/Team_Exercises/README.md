@@ -1,21 +1,6 @@
-# Team Exercise: Database Design Project for Transport for London (TfL)
+# Specific Examples of My Work
 
-## Overview
-
-This team project involved designing a logical database for Transport for London (TfL). Our goal was to create a robust and efficient database solution to manage large volumes of transport data. The project required collaboration on database design, data management pipeline creation, and critical evaluation of the selected database management system (DBMS). The team's task was to deliver a comprehensive report that met the client's needs, adhered to best practices in database design, and demonstrated an understanding of data management principles.
-
-### My Role and Contributions
-
-- **Communication and Coordination:** Initiated communication through WhatsApp and forum threads to ensure clear, consistent updates and collaboration. This approach helped prevent miscommunications and ensured all team members were aligned on the project objectives and deadlines.
-- **Task Assignment and Planning:** Created a detailed project plan and assigned tasks based on team members' strengths and availability. This strategy optimised workflow and helped meet deadlines efficiently.
-- **Data Management Pipeline Development:** Led the design and implementation of a data management pipeline using Python. This included:
-  - **Data Retrieval:** Developed Python scripts to access TfL's API, retrieve data in various formats (JSON, ZIP), and save it locally for further processing.
-  - **Data Cleaning:** Implemented data cleaning techniques, such as handling missing values and removing duplicates, using Python libraries (e.g., `pandas`).
-  - **Data Preparation for Database Loading:** Structured the cleaned data to be compatible with the chosen DBMS format, including normalising data to reduce redundancy.
-
-### Specific Examples of My Work
-
-#### 1. Data Retrieval and Processing Script
+## 1. Data Retrieval and Processing Script
 
 To automate data retrieval from TfL's API, I developed a Python script that fetches data from multiple endpoints, handles different file types (e.g., JSON, ZIP), and stores them in the appropriate directory for further processing:
 
@@ -65,7 +50,9 @@ for endpoint in endpoints:
     files_list = fetch_and_process_data(URL_NAME + endpoint, files_list)
 ```
 
-2. Data Cleaning and Preparation
+---
+
+## 2. Data Cleaning and Preparation
 After retrieving the data, I implemented data cleaning procedures to handle missing values and remove duplicates:
 
 ```python
@@ -78,17 +65,6 @@ df.fillna(method='ffill', inplace=True)  # Fill missing values using forward fil
 df.to_csv('cleaned_data.csv', index=False)
 print("Data cleaning completed and saved as cleaned_data.csv.")
 ```
-
-### Feedback
-
-#### Feedback Received:
-- **Strengths:**
-  - The report demonstrated a good understanding of module topics and practical application.
-  - Effective descriptions of data availability, user requirements, and a structured report format.
-- **Areas for Improvement:**
-  - More depth was needed in describing the logical design, particularly the ER diagrams.
-  - The data management pipeline section required further elaboration and a clearer focus on essential elements.
-
 ### Conclusion
 
 This project was a valuable learning experience in database design, data management, and teamwork. It equipped me with essential skills for future professional roles in data science and reinforced the importance of clear communication, detailed analysis, and a focus on core requirements.

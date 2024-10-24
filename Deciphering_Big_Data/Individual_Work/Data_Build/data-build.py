@@ -2,7 +2,7 @@ import pandas as pd
 import sqlite3
 
 # Connect to SQLite Database
-conn = sqlite3.connect('student_course_database.db')
+conn = sqlite3.connect('Deciphering_Big_Data/Individual_Work/Data_Build/datastudent_course_database.db')
 cursor = conn.cursor()
 
 # Create Tables
@@ -43,16 +43,16 @@ CREATE TABLE IF NOT EXISTS Student_Courses (
 ''')
 
 # Load data
-students_df = pd.read_csv('students.csv')
+students_df = pd.read_csv('Deciphering_Big_Data/Individual_Work/Normalisation/data/students.csv')
 students_df.to_sql('Students', conn, if_exists='replace', index=False)
 
-courses_df = pd.read_csv('courses.csv')
+courses_df = pd.read_csv('Deciphering_Big_Data/Individual_Work/Normalisation/data/courses.csv')
 courses_df.to_sql('Courses', conn, if_exists='replace', index=False)
 
-teachers_df = pd.read_csv('teachers.csv')
+teachers_df = pd.read_csv('Deciphering_Big_Data/Individual_Work/Normalisation/data/teachers.csv')
 teachers_df.to_sql('Teachers', conn, if_exists='replace', index=False)
 
-student_courses_df = pd.read_csv('student_courses.csv')
+student_courses_df = pd.read_csv('Deciphering_Big_Data/Individual_Work/Normalisation/data/student_courses.csv')
 student_courses_df.to_sql('Student_Courses', conn, if_exists='replace', index=False)
 
 # Commit the transaction and close the connection

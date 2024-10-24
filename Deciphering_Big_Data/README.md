@@ -55,7 +55,7 @@ A summary of notes made during meetings with my peers:
 
 ---
 
-### [Individual Work](./Individual_Tasks/README.md)
+### Individual Work
 
 An overview of individual tasks completed, including:
 

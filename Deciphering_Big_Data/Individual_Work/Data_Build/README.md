@@ -42,6 +42,8 @@ pip install pandas sqlite3 openpyxl
 2. Run the Python script to import the CSV files and build the SQLite database:
 3. The database will be created as `student_course_database.db` in the current directory, with all data imported into the relevant tables.
 
+Here is the [Full Code](Deciphering_Big_Data/Individual_Work/Data_Build/data-build.py).
+
 ## References
 
 Brumm, B. (2023) *Normalization in SQL DBMS: 1NF, 2NF, 3NF, and BCNF Examples*. POPSQL, 26 July. Available at: [https://popsql.com/blog/normalization-in-sql](https://popsql.com/blog/normalization-in-sql) (Accessed: 24 October 2024).

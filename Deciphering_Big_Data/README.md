@@ -1,3 +1,7 @@
+---
+layout: fullwidth
+---
+
 # Deciphering Big Data
 
 ---

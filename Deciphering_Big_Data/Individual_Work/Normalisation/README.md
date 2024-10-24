@@ -7,7 +7,7 @@ This task involved normalising un-normalised data related to students, their cou
 
 ## 1NF - First Normal Form
 In 1NF, repeating groups were removed by making sure all attributes had atomic values.
-  
+
 | Student Number | Student Name  | Exam Score | Support | Date of Birth | Course Name      | Exam Board | Teacher Name |
 |----------------|---------------|------------|---------|---------------|------------------|------------|--------------|
 | 1001           | Bob Baker     | 78         | No      | 25/08/2001    | Computer Science | BCS        | Mr Jones     |
@@ -30,7 +30,7 @@ In 1NF, repeating groups were removed by making sure all attributes had atomic v
 
 ## 2NF - Second Normal Form
 In 2NF, partial dependencies were removed by splitting the data into two tables: one for student-specific details and one for course-related information.
-  
+
 ### Students Table
 | Student Number | Student Name   | Date of Birth | Exam Score | Support |
 |----------------|----------------|---------------|------------|---------|
@@ -39,7 +39,7 @@ In 2NF, partial dependencies were removed by splitting the data into two tables:
 | 1003           | Mark Hanmill   | 05/06/1995    | 90         | No      |
 | 1004           | Anas Ali       | 03/08/1980    | 70         | No      |
 | 1005           | Cheuk Yin      | 01/05/2002    | 45         | Yes     |
-  
+
 ### Student_Courses Table
 | Student Number | Course Name      | Exam Board | Teacher Name |
 |----------------|------------------|------------|--------------|

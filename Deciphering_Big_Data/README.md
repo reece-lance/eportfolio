@@ -79,8 +79,9 @@ Key points from my [Full Reflective Piece](./Individual_Tasks/README.md):
 
 ---
 
-### [Professional skills gained or enhanced:](./Professional_Development/professional_development_plan.md)
+### Professional Skills Gained
 
+Here are the key skills from the [Full List](./Professional_Development/professional_development_plan.md):
 - Time management
 - Commercial awareness
 - Critical thinking and analysis

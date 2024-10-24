@@ -1,7 +1,3 @@
----
-show_profile: true
----
-
 # Deciphering Big Data
 
 ---

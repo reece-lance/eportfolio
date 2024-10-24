@@ -30,14 +30,41 @@ The "Deciphering Big Data" module focuses on developing the skills necessary to 
 
 ### Development Team Project
 
-An overview of [my contributions to the team](./Team_Exercises/README.md), including:
+#### Overview
 
-- Communication and Coordination
-- Task Assignment and Planning
-- Data Management Pipeline Development:
-  - Data Retrieval
-  - Data Cleaning
-  - Data Preparation for Database Loading
+This team project involved designing a logical database for Transport for London (TfL). Our goal was to create a robust and efficient database solution to manage large volumes of transport data. The project required collaboration on database design, data management pipeline creation, and critical evaluation of the selected database management system (DBMS). The team's task was to deliver a comprehensive report that met the client's needs, adhered to best practices in database design, and demonstrated an understanding of data management principles.
+
+#### My Role and Contributions
+
+- **Communication and Coordination:** Initiated communication through WhatsApp and forum threads to ensure clear, consistent updates and collaboration. This approach helped prevent miscommunications and ensured all team members were aligned on the project objectives and deadlines.
+- **Task Assignment and Planning:** Created a detailed project plan and assigned tasks based on team members' strengths and availability. This strategy optimised workflow and helped meet deadlines efficiently.
+- **Data Management Pipeline Development:** Led the design and implementation of a data management pipeline using Python. This included:
+  - **Data Retrieval:** Developed Python scripts to access TfL's API, retrieve data in various formats (JSON, ZIP), and save it locally for further processing.
+  - **Data Cleaning:** Implemented data cleaning techniques, such as handling missing values and removing duplicates, using Python libraries (e.g., `pandas`).
+  - **Data Preparation for Database Loading:** Structured the cleaned data to be compatible with the chosen DBMS format, including normalising data to reduce redundancy.
+
+*[Examples of my work](/.)*
+
+#### Feedback
+
+#### Feedback Received:
+- **Strengths:**
+  - The report demonstrated a good understanding of module topics and practical application.
+  - Effective descriptions of data availability, user requirements, and a structured report format.
+- **Areas for Improvement:**
+  - More depth was needed in describing the logical design, particularly the ER diagrams.
+  - The data management pipeline section required further elaboration and a clearer focus on essential elements.
+
+Here is the [Initial Logical Design Report (Download)](./Team_Exercises/initial-report.docx)
+
+#### Evaluation of Final Project vs. Initial Proposal
+
+The final project significantly expanded upon the initial proposal, providing greater detail and addressing practical challenges more comprehensively. Key differences include:
+
+API integration: The final report described the full process of capturing, cleaning, and normalising data from TfL’s API, refining the initial concept.
+Enhanced logical design: The final project improved the relational integrity, with deeper focus on primary/foreign keys and achieving normalisation to 3NF.
+DBMS evaluation: The final submission provided a thorough evaluation of PostgreSQL’s suitability, which was only briefly mentioned in the initial proposal.
+In conclusion, the final project offered a more complete, scalable, and secure solution, building on the foundations of the initial proposal while addressing practical data management needs more effectively.
 
 Here is the [Final Project Report (Download)](./Team_Exercises/final-report.docx)
 

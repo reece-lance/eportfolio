@@ -1,26 +1,26 @@
 # Data Cleaning Task
 
-## Task Description
+### Task Description
 
-This is a task focused on cleaning and processing a [Unicef dataset](./data/mn.csv) with 9,008 rows and 159 columns. The aim of this task was to apply a variety of data cleaning techniques to prepare the dataset for further analysis and store the cleaned data in a SQLite database. The key steps included header replacement, handling column mismatches, removing duplicates, dealing with missing values, normalising numeric data, and ensuring the dataset was formatted for SQLite compatibility.
+This task involved cleaning and processing a 9,008-row, 159-column Unicef dataset to prepare it for analysis and store it in a SQLite database. Key steps included header replacement, resolving column mismatches, removing duplicates, handling missing values, normalising data, and ensuring SQLite compatibility.
 
-## Learning Objectives
+### Learning Objectives
 
-- Gain an understanding and perform the basics and factors of data cleaning.
-- Evaluate the critical outcomes for the data design and automation.
+- Understand and apply data cleaning techniques.
+- Evaluate outcomes for data design and automation.
 - Compile and document Python scripts.
-- Compile data sets and convert data into different formats.
+- Convert datasets into various formats.
 
-## Detailed Objectives
+### Detailed Objectives
 
 - **Load the dataset** and ensure it is correctly read into memory.
-- **Replace headers** from a provided header file, resolving any mismatches between data columns and header rows.
-- **Handle column mismatches** by aligning the number of headers with the dataset.
-- **Remove duplicate records** to maintain data consistency.
-- **Handle missing values** by filling numeric columns with their respective mean values.
-- **Normalise numeric columns** for consistent scaling.
-- **Sanitise column names** for compatibility with SQLite by removing spaces, special characters, and ensuring column name uniqueness.
-- **Save the cleaned dataset** into a SQLite database for future querying and analysis.
+- **Replace headers** from a provided header file, resolving any mismatches.
+- **Handle column mismatches** by aligning headers with the dataset.
+- **Remove duplicates** to maintain data consistency.
+- **Handle missing values** by filling numeric columns with mean values.
+- **Normalise numeric data** for consistent scaling.
+- **Sanitise column names** for SQLite compatibility.
+- **Save the cleaned dataset** into a SQLite database for querying and analysis.
 
 ## Steps Completed
 

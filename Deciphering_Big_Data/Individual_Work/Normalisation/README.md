@@ -32,6 +32,7 @@ In 1NF, repeating groups were removed by making sure all attributes had atomic v
 In 2NF, partial dependencies were removed by splitting the data into two tables: one for student-specific details and one for course-related information.
 
 ### Students Table
+
 | Student Number | Student Name   | Date of Birth | Exam Score | Support |
 |----------------|----------------|---------------|------------|---------|
 | 1001           | Bob Baker      | 25/08/2001    | 78         | No      |
@@ -41,6 +42,7 @@ In 2NF, partial dependencies were removed by splitting the data into two tables:
 | 1005           | Cheuk Yin      | 01/05/2002    | 45         | Yes     |
 
 ### Student_Courses Table
+
 | Student Number | Course Name      | Exam Board | Teacher Name |
 |----------------|------------------|------------|--------------|
 | 1001           | Computer Science | BCS        | Mr Jones     |
@@ -65,6 +67,7 @@ In 2NF, partial dependencies were removed by splitting the data into two tables:
 In 3NF, transitive dependencies were removed by separating the `Teacher Name` into a new table linked to the `Course Name`.
 
 ### Courses Table
+
 | Course Name      | Exam Board |
 |------------------|------------|
 | Computer Science | BCS        |
@@ -74,6 +77,7 @@ In 3NF, transitive dependencies were removed by separating the `Teacher Name` in
 | Music            | AQA        |
 
 ### Teachers Table
+
 | Course Name      | Teacher Name |
 |------------------|--------------|
 | Computer Science | Mr Jones     |
@@ -83,6 +87,7 @@ In 3NF, transitive dependencies were removed by separating the `Teacher Name` in
 | Music            | Ms Daniels   |
 
 ### Student_Courses Table (Final)
+
 | Student Number | Course Name      |
 |----------------|------------------|
 | 1001           | Computer Science |

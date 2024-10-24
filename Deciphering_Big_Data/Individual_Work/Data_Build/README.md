@@ -42,7 +42,7 @@ pip install pandas sqlite3 openpyxl
 2. Run the Python script to import the CSV files and build the SQLite database:
 3. The database will be created as `student_course_database.db` in the current directory, with all data imported into the relevant tables.
 
-Here is the [Full Code](Deciphering_Big_Data/Individual_Work/Data_Build/data-build.py).
+Here is the [Full Code]([Deciphering_Big_Data/Individual_Work/Data_Build/data-build.py](https://github.com/reece-lance/eportfolio/blob/main/Deciphering_Big_Data/Individual_Work/Data_Build/data-build.py)).
 
 Here is the [Database]([Deciphering_Big_Data/Individual_Work/Data_Build/student_course_database.db](https://github.com/reece-lance/eportfolio/blob/main/Deciphering_Big_Data/Individual_Work/Data_Build/student_course_database.db)).
 

@@ -10,10 +10,11 @@
 
 ## Learning Outcomes
 
-1.
-2.
-3.
-4.
+1. Develop knowledge of key machine learning algorithms and their application to solve real-world problems.
+2. Recognise and evaluate the legal, social, ethical, and professional issues faced by machine learning professionals.
+3. Understand the challenges of working with diverse datasets and apply appropriate techniques to prepare and analyse them.
+4. Develop skills for effective collaboration and role management in virtual development teams.
+5. Evaluate the suitability of machine learning methods in addressing complex problems under conditions of uncertainty.
 
 ---
 

@@ -16,12 +16,12 @@ This section summarises my participation in the collaborative discussion on the 
 ---
 
 ## Key Points from Peer Feedback
-1. Importance of Risk Assessments: Panagiotis highlighted the need for thorough risk assessments and contingency planning before implementing system changes, particularly in critical sectors like finance.
+1. **Importance of Risk Assessments**: Panagiotis highlighted the need for thorough risk assessments and contingency planning before implementing system changes, particularly in critical sectors like finance.
 
-2. Adoption of Zero Trust Architecture (ZTA): Mateusz emphasised the significance of Zero Trust Architecture to reduce vulnerabilities in interconnected systems, limiting the spread of potential attacks within digital networks.
+2. **Adoption of Zero Trust Architecture (ZTA)**: Mateusz emphasised the significance of Zero Trust Architecture to reduce vulnerabilities in interconnected systems, limiting the spread of potential attacks within digital networks.
 
-3. Integration of DevOps Practices: Feedback suggested that DevOps practices could improve system reliability and allow for continuous monitoring, ensuring potential vulnerabilities are detected and addressed early.
+3. **Integration of DevOps Practices**: Feedback suggested that DevOps practices could improve system reliability and allow for continuous monitoring, ensuring potential vulnerabilities are detected and addressed early.
 
-4. AI-Driven Threat Detection: Suggestions were made to leverage AI-driven tools for real-time threat detection, enabling faster responses to cyberattacks and improving overall system security.
+4. **AI-Driven Threat Detection**: Suggestions were made to leverage AI-driven tools for real-time threat detection, enabling faster responses to cyberattacks and improving overall system security.
 
-5. Balance Between Innovation and Security: Nima highlighted the challenge of balancing operational efficiency with the need for robust cybersecurity measures, particularly in resource-constrained organisations like the NHS.
+5. **Balance Between Innovation and Security**: Nima highlighted the challenge of balancing operational efficiency with the need for robust cybersecurity measures, particularly in resource-constrained organisations like the NHS.

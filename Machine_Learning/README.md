@@ -4,7 +4,7 @@
 
 ## Module Overview
 
-
+The Machine Learning module provides a practical introduction to designing, implementing, and critically evaluating machine learning systems. You will explore key paradigms, algorithms, and data analytics techniques while gaining hands-on experience with tools like Python or R. The module also examines the ethical, legal, and professional challenges faced by machine learning professionals, ensuring you are equipped to address real-world problems with technical risk and uncertainty.
 
 ---
 
@@ -33,7 +33,7 @@
 
 #### Overview
 
-
+This project focused on analysing Airbnb’s business data using a data science approach. Our team posed a substantive business question, performed exploratory data analysis (EDA), data pre-processing, and applied machine learning techniques such as clustering to uncover insights. The 1000-word analytical report, supported by visualisations and concise interpretations, aimed to address challenges and provide actionable recommendations for Airbnb's strategic decision-making. All code and supplementary artefacts were included as appendices, ensuring transparency and reproducibility.
 
 *[Examples of my work](./Team_Exercises/README.md)*
 

@@ -12,7 +12,7 @@ Do you think stricter industry-specific AI guidelines could mitigate risks witho
 
 ---
 
-# References
+## References
 
 Cinelli, M., Morales, G. D. F., Galeazzi, A., Quattrociocchi, W., & Starnini, M. (2021) ‘The echo chamber effect on social media’, Proceedings of the National Academy of Sciences, 118(9), e2023301118. Available at: https://doi.org/10.1073/pnas.2023301118 (Accessed: 16 January 2025).
 

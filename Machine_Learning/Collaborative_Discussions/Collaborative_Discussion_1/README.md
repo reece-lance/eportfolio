@@ -16,8 +16,12 @@ This section summarises my participation in the collaborative discussion on the 
 ---
 
 ## Key Points from Peer Feedback
-1. Real-World Examples: My peer, Jack Johnson, suggested including case studies like Rolls-Royce’s use of digital twins for predictive maintenance to illustrate Industry 4.0’s tangible benefits.
+1. Importance of Risk Assessments: Panagiotis highlighted the need for thorough risk assessments and contingency planning before implementing system changes, particularly in critical sectors like finance.
 
-2. Ethical Challenges: Maria Lopez encouraged a deeper exploration of ethical dilemmas, particularly regarding AI’s role in decision-making and its impact on workforce dynamics.
+2. Adoption of Zero Trust Architecture (ZTA): Mateusz emphasised the significance of Zero Trust Architecture to reduce vulnerabilities in interconnected systems, limiting the spread of potential attacks within digital networks.
 
-3. Global Perspectives: David Liu highlighted the uneven adoption of Industry 4.0 technologies across regions, urging a discussion on how developing economies can leverage these advancements.
+3. Integration of DevOps Practices: Feedback suggested that DevOps practices could improve system reliability and allow for continuous monitoring, ensuring potential vulnerabilities are detected and addressed early.
+
+4. AI-Driven Threat Detection: Suggestions were made to leverage AI-driven tools for real-time threat detection, enabling faster responses to cyberattacks and improving overall system security.
+
+5. Balance Between Innovation and Security: Nima highlighted the challenge of balancing operational efficiency with the need for robust cybersecurity measures, particularly in resource-constrained organisations like the NHS.

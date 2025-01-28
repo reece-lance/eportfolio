@@ -10,11 +10,12 @@ Additionally, Mateusz’s discussion on interconnected systems in Industry 4.0 u
 
 Reflecting on the discussion, I have a deeper appreciation for the complexity and importance of cybersecurity in a connected world. While Industry 4.0 enables unprecedented innovation and productivity, the necessity for robust, proactive security frameworks is evident. Ultimately, as industries continue to embrace digital transformation, they must equally prioritise cybersecurity to protect operational continuity and consumer trust.
 
-References
+---
+
+## References
 
 BBC (2020). British Airways fined £20m over data breach. BBC News, 16 October. Available at: https://www.bbc.co.uk/news/technology-54568784 (Accessed 9 November 2024).
 
 Kim, G., Debois, P., Willis, J., Humble, J. and Allspaw, J. (2020). The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations. IT Revolution Press. Available at: https://archive.org/details/devopshandbookho0000kimg (Accessed 10 November 2024).
 
 Rose, S., Borchert, O., Mitchell, S. and Connelly, S. (2020). Zero Trust Architecture. NIST Special Publication 800-207. Available at: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207.pdf (Accessed 10 November 2024).
-

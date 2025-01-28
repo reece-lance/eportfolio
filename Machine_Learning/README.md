@@ -24,8 +24,8 @@
 
 ### Collaborative Discussion Forum Summaries
 
-- [Collaborative Discussion 1 - The 4th Industrial Revolution](./Collaborative_Discussions/Collaborative_Discussion_1)
-- [Collaborative Discussion 2 - Legal and Ethical views on ANN applications](./Collaborative_Discussions/Collaborative_Discussion_2)
+- [Collaborative Discussion 1 - The 4th Industrial Revolution](./Collaborative_Discussions/Collaborative_Discussion_1/README.md)
+- [Collaborative Discussion 2 - Legal and Ethical views on ANN applications](./Collaborative_Discussions/Collaborative_Discussion_2/README.md)
 
 ---
 

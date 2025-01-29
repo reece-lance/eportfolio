@@ -33,7 +33,7 @@ The Machine Learning module provides a practical introduction to designing, impl
 
 #### Overview
 
-This project focused on analysing Airbnb’s business data using a data science approach. Our team posed a substantive business question, performed exploratory data analysis (EDA), data pre-processing, and applied machine learning techniques such as clustering to uncover insights. The 1000-word analytical report, supported by visualisations and concise interpretations, aimed to address challenges and provide actionable recommendations for Airbnb's strategic decision-making. All code and supplementary artefacts were included as appendices, ensuring transparency and reproducibility.
+This project focused on analysing Airbnb’s business data using a data science approach. Our team investigated which neighborhoods in New York City show untapped potential for growth in Airbnb listings based on demand, pricing, and availability trends. To answer this, we performed exploratory data analysis (EDA), data pre-processing, and applied machine learning techniques such as clustering to identify patterns. The analytical report, supported by visualisations and concise interpretations, aimed to address this challenge and provide actionable recommendations for Airbnb’s strategic decision-making. All code and supplementary artefacts were included as appendices, ensuring transparency and reproducibility.
 
 *[Examples of my work](./Team_Exercises/README.md)*
 

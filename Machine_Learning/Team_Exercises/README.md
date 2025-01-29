@@ -2,84 +2,132 @@
 
 ---
 
-- **Communication and Coordination:** Initiated communication through WhatsApp and forum threads to ensure clear, consistent updates and collaboration. This approach helped prevent miscommunications and ensured all team members were aligned on the project objectives and deadlines.
-- **Task Assignment and Planning:** Created a detailed project plan and assigned tasks based on team members' strengths and availability. This strategy optimised workflow and helped meet deadlines efficiently.
-- **Data Management Pipeline Development:** Led the design and implementation of a data management pipeline using Python. This included:
-  - **Data Retrieval:** Developed Python scripts to access TfL's API, retrieve data in various formats (JSON, ZIP), and save it locally for further processing.
-  - **Data Cleaning:** Implemented data cleaning techniques, such as handling missing values and removing duplicates, using Python libraries (e.g., `pandas`).
-  - **Data Preparation for Database Loading:** Structured the cleaned data to be compatible with the chosen DBMS format, including normalising data to reduce redundancy.
+- **Communication and Coordination:** Initiated and maintained team discussions through **WhatsApp** and forum threads, ensuring clear and consistent updates. This helped align all members on deadlines, expectations, and progress, preventing miscommunication and delays.
+- **Project Planning and Task Assignment:** Organised the **workflow** by structuring a clear plan and delegating tasks based on individual strengths and availability. This approach ensured efficiency and balanced workload distribution.
+- **Business Question Development:** Proposed the **core analytical question** that guided our data analysis, ensuring it was relevant to Airbnb’s business strategy and provided actionable insights.
+- **Exploratory Data Analysis (EDA):** Worked alongside **Raluca** to conduct **EDA**, producing Python scripts to explore key patterns in the dataset, clean the data, and generate **visualisations** to support our findings.
+- **Report Writing:** Contributed to the **writing and structuring** of the final analytical report, ensuring clarity, strong justifications, and effective presentation of data insights.
+- **Final Submission:** Took responsibility for compiling and submitting the completed project, ensuring all components were properly formatted, complete, and aligned with the assignment requirements.
  
 ---
 
 # Specific Examples of My Work
 
-## 1. Data Retrieval and Processing Script
+## 1. Demand and Availability Mapping
 
-To automate data retrieval from TfL's API, I developed a Python script that fetches data from multiple endpoints, handles different file types (e.g., JSON, ZIP), and stores them in the appropriate directory for further processing:
+One of my key contributions was creating an **interactive clustered map** to visually represent the demand and availability of Airbnb listings across New York City neighborhoods. The map categorises areas into three types:
+
+- **Green Markers:** High-demand, low-availability neighborhoods (ideal for new listings).
+- **Orange Markers:** Borderline neighborhoods with moderate demand or availability.
+- **Red Markers:** Areas to avoid due to low demand and high availability.
 
 ```python
-import requests
-import zipfile
-import io
-import os
+from folium.plugins import MarkerCluster
+import geopandas as gpd
 
-def fetch_and_process_data(url, files_list):
-    try:
-        response = requests.get(url)
-        if response.status_code == 200:
-            content_type = response.headers.get('Content-Type', '')
-            file_name = url.split('/')[-1]
-            base_name, file_extension = os.path.splitext(file_name)
-            directory_name = base_name.replace('.', '_')
-            raw_data_path = os.path.join("..", "data", "raw", directory_name)
-            os.makedirs(raw_data_path, exist_ok=True)
+# Load GeoJSON data for neighborhoods if centroids are needed
+geo_data = gpd.read_file(geojson_path)
+geo_data['centroid'] = geo_data['geometry'].centroid
 
-            if 'zip' in content_type or file_extension == '.zip':
-                with zipfile.ZipFile(io.BytesIO(response.content)) as zip_file:
-                    for file_info in zip_file.infolist():
-                        zip_file.extract(file_info, raw_data_path)
-                        extracted_file_path = os.path.join(raw_data_path, file_info.filename)
-                        files_list.append(extracted_file_path)
-                print(f"Data downloaded and extracted successfully to {raw_data_path}.")
-            else:
-                file_path = os.path.join(raw_data_path, file_name)
-                with open(file_path, 'wb') as file:
-                    file.write(response.content)
-                files_list.append(file_path)
-                print(f"Data downloaded successfully and saved as {file_path}.")
-        else:
-            print(f"Failed to retrieve data. Status code: {response.status_code}")
-            
-        return files_list
+# Create a clustered map
+clustered_map = folium.Map(location=[40.7128, -74.0060], zoom_start=11)
+marker_cluster = MarkerCluster().add_to(clustered_map)
 
-    except requests.exceptions.RequestException as e:
-        print(f"An error occurred while fetching data: {e}")
+# Add markers for high-demand neighborhoods (Green)
+for _, row in high_demand_low_availability.iterrows():
+    centroid = geo_data[geo_data['BoroName'] == row['neighbourhood']]['centroid']
+    latitude = centroid.y.values[0] if not centroid.empty else data[data['neighbourhood'] == row['neighbourhood']]['latitude'].mean()
+    longitude = centroid.x.values[0] if not centroid.empty else data[data['neighbourhood'] == row['neighbourhood']]['longitude'].mean()
+    
+    if pd.notnull(latitude) and pd.notnull(longitude):
+        folium.Marker(
+            location=[latitude, longitude],
+            popup=create_popup(row, "Ideal: High Demand, Low Availability"),
+            icon=folium.Icon(color='green', icon='star', prefix='fa')
+        ).add_to(marker_cluster)
 
-# List of endpoints and processing loop
-URL_NAME = "https://api.tfl.gov.uk"
-endpoints = ["/stationdata/tfl-stationdata-detailed.zip", "/Line/Route", "/Vehicle/{ids}/Arrivals"]
-files_list = []
-for endpoint in endpoints:
-    files_list = fetch_and_process_data(URL_NAME + endpoint, files_list)
+# Save the clustered map
+clustered_map.save("../visualisations/clustered_map.html")
+print("Clustered map saved as '../visualisations/clustered_map.html'.")
 ```
-
 <iframe src="https://reece-lance.github.io/eportfolio/Machine_Learning/Team_Exercises/Examples/clustered_map.html" width="100%" height="600" style="border:0;" allowfullscreen></iframe>
 
 ---
 
-## 2. Data Cleaning and Preparation
-After retrieving the data, I implemented data cleaning procedures to handle missing values and remove duplicates:
+## 2. Clustering Analysis with K-Means
+
+I applied K-Means clustering to segment neighborhoods based on price, demand, and availability, allowing us to identify patterns and potential opportunities.
 
 ```python
-Copy code
-import pandas as pd
+from sklearn.preprocessing import StandardScaler
+from sklearn.cluster import KMeans
 
-df = pd.read_json('raw_data.json')
-df.drop_duplicates(inplace=True)
-df.fillna(method='ffill', inplace=True)  # Fill missing values using forward fill method
-df.to_csv('cleaned_data.csv', index=False)
-print("Data cleaning completed and saved as cleaned_data.csv.")
+# Select features for clustering
+features = availability_price_analysis[['avg_price', 'avg_reviews', 'avg_availability']]
+
+# Handle missing values (if any)
+features = features.dropna()
+
+# Scale the features
+scaler = StandardScaler()
+scaled_features = scaler.fit_transform(features)
+
+# Apply k-means clustering with the optimal number of clusters
+optimal_k = 3  # Determined from the Elbow Method
+kmeans = KMeans(n_clusters=optimal_k, random_state=42)
+features['cluster'] = kmeans.fit_predict(scaled_features)
+
+availability_price_analysis['cluster'] = features['cluster']
 ```
+
+### Elbow Method for Choosing k:
+
+To determine the optimal number of clusters, I used the Elbow Method to analyse inertia values across different k values.
+
+```python
+import matplotlib.pyplot as plt
+
+# Calculate inertia for different k values
+inertia = []
+k_values = range(1, 10)
+for k in k_values:
+    kmeans = KMeans(n_clusters=k, random_state=42)
+    kmeans.fit(scaled_features)
+    inertia.append(kmeans.inertia_)
+
+# Plot the Elbow Method
+plt.figure(figsize=(8, 5))
+plt.plot(k_values, inertia, marker='o')
+plt.title('Elbow Method for Optimal k')
+plt.xlabel('Number of Clusters (k)')
+plt.ylabel('Inertia')
+plt.show()
+```
+
+![image](https://github.com/user-attachments/assets/3d7a07fa-4b39-4645-b573-d6cd71fb139f)
+
+---
+
+## 3. Statistical Analysis: Pricing Differences Across Neighborhoods
+
+To determine if Airbnb prices differ significantly across neighborhoods, I performed an ANOVA test.
+
+```python
+from scipy.stats import f_oneway
+
+# Group data by neighbourhoods and extract price values
+neighbourhood_groups = [filtered_data[filtered_data['neighbourhood'] == n]['avg_price'].dropna()
+                        for n in filtered_data['neighbourhood'].unique()]
+
+# Perform ANOVA test
+f_statistic, p_value = f_oneway(*neighbourhood_groups)
+
+print(f"ANOVA F-statistic: {f_statistic}, p-value: {p_value}")
+```
+
+A low p-value (typically < 0.05) would indicate significant pricing differences between neighborhoods.
+A high p-value would suggest that pricing does not significantly vary by location.
+
 ### Conclusion
 
-This project was a valuable learning experience in database design, data management, and teamwork. It equipped me with essential skills for future professional roles in data science and reinforced the importance of clear communication, detailed analysis, and a focus on core requirements.
+This project showcased my ability to apply data science techniques, such as exploratory data analysis, clustering, and data visualisation, to address real-world business challenges. By working collaboratively with my team, I contributed to uncovering actionable insights for Airbnb, such as identifying high-demand neighborhoods and areas to avoid. The final interactive maps, statistical analyses, and concise reporting provided a clear pathway for Airbnb to optimise its business strategy. This experience strengthened my technical expertise and teamwork skills, demonstrating my ability to deliver data-driven solutions effectively.

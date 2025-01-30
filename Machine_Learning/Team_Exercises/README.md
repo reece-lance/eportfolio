@@ -131,9 +131,3 @@ A high p-value would suggest that pricing does not significantly vary by locatio
 ### Conclusion
 
 This project showcased my ability to apply data science techniques, such as exploratory data analysis, clustering, and data visualisation, to address real-world business challenges. By working collaboratively with my team, I contributed to uncovering actionable insights for Airbnb, such as identifying high-demand neighborhoods and areas to avoid. The final interactive maps, statistical analyses, and concise reporting provided a clear pathway for Airbnb to optimise its business strategy. This experience strengthened my technical expertise and teamwork skills, demonstrating my ability to deliver data-driven solutions effectively.
-
----
-
-# Full Project and Report
-
-[Full Project Repository](https://github.com/reece-lance/Airbnb_NYC_Business_Analysis_2019)

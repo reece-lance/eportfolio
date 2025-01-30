@@ -37,25 +37,25 @@ This project focused on analysing Airbnb’s business data using a data science 
 
 *[Examples of my work](./Team_Exercises/README.md)*
 
-#### Feedback Received:
+#### Feedback Received (Not yet received):
 - **Strengths:**
-  - 
-  - 
+  - The business question was well-chosen and relevant to Airbnb's operations.
+  - The methodology was solid, demonstrating a good understanding of data analysis, EDA, and machine learning techniques.
+  - The analysis was well-executed, with correctly applied clustering and statistical techniques.
+  - The report was well-structured, making it accessible for Airbnb executives.
 - **Areas for Improvement:**
-  - 
-  - 
+  - The business question could have been elaborated further, exploring more implications and alternative analytical directions.
+  - The rationale behind the question needed more depth, ensuring a more coherent strategy.
+  - The business impact analysis was good but could have been expanded to highlight additional insights.
+  - Visualisations could have been more extensive, leveraging Python’s full capabilities to support the analysis.
+  - The report's narrative and formal tone could have been strengthened, improving clarity and professional presentation.
 
-Here is the [Initial Logical Design Report (Download)](./Team_Exercises/initial-report.docx)
+#### Evaluation of Project
 
-#### Evaluation of Final Project vs. Initial Proposal
+This project strengthened my ability to use data science techniques in a structured, business-driven context and was a critical learning experience. Our collaboration skills were excellent, allowing us to derive insights from the dataset by successfully conduct EDA, clustering and statistical analysis. The report was very well structured and our methodology was good, however, we could have explored the business question and its impact a little deeper. Furthermore, some more advanced visualisation would have helped to enhance our findings. Overall, I am proud of our team's effort and will learn from this feedback to refine my approach in future analytical projects.
 
-The final project significantly expanded upon the initial proposal, providing greater detail and addressing practical challenges more comprehensively. Key differences include:
-
-
-
-In conclusion, 
-
-Here is the [Final Project Report (Download)](./Individual_Work/final-report.docx)
+Here is the [Analytical Report (Download)](https://github.com/reece-lance/Airbnb_NYC_Business_Analysis_2019/blob/main/report/analytical_report.docx)
+Here is the [Full Code (Download)](https://github.com/reece-lance/Airbnb_NYC_Business_Analysis_2019/blob/main/notebooks/exploratory_analysis_edited_4.ipynb)
 
 ---
 
@@ -63,7 +63,12 @@ Here is the [Final Project Report (Download)](./Individual_Work/final-report.doc
 
 A summary of notes made during meetings with my peers:
 
-- 
+- Finalised Business Question: Agreed to analyse which neighborhoods in NYC show untapped potential for Airbnb listings based on demand, pricing, and availability trends.
+- Task Assignments: Delegated EDA to myself and Raluca, while Stuart and Yassir focused on data preprocessing.
+- Data Challenges: Discussed handling missing values, outliers, and ensuring dataset consistency before clustering analysis.
+- Clustering Approach: Decided on using K-Means and Elbow Method to segment neighborhoods and identify investment opportunities.
+- Report Structure: Agreed to keep findings concise, focusing on key insights and visualisations to stay within the 1000-word limit.
+- Final Submission Plan: Ensured all artefacts, including code, visualisations, and appendices, were reviewed before submitting on time.
 
 ---
 

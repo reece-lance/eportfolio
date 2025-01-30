@@ -83,6 +83,7 @@ print(f"Multiple Linear Regression Equation: CO2 = {multi_slope[0]:.4f} * Volume
 ```
 
 **Output:**
+
 Multiple Linear Regression Equation: CO2 = 0.0078 * Volume + 0.0076 * Weight + 79.69
 
 ### **4. Polynomial Regression**

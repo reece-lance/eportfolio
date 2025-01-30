@@ -55,6 +55,7 @@ This project focused on analysing Airbnb’s business data using a data science 
 This project strengthened my ability to use data science techniques in a structured, business-driven context and was a critical learning experience. Our collaboration skills were excellent, allowing us to derive insights from the dataset by successfully conduct EDA, clustering and statistical analysis. The report was very well structured and our methodology was good, however, we could have explored the business question and its impact a little deeper. Furthermore, some more advanced visualisation would have helped to enhance our findings. Overall, I am proud of our team's effort and will learn from this feedback to refine my approach in future analytical projects.
 
 Here is the [Analytical Report (Download)](https://github.com/reece-lance/Airbnb_NYC_Business_Analysis_2019/blob/main/report/analytical_report.docx)
+
 Here is the [Full Code (Download)](https://github.com/reece-lance/Airbnb_NYC_Business_Analysis_2019/blob/main/notebooks/exploratory_analysis_edited_4.ipynb)
 
 ---
@@ -63,12 +64,12 @@ Here is the [Full Code (Download)](https://github.com/reece-lance/Airbnb_NYC_Bus
 
 A summary of notes made during meetings with my peers:
 
-- Finalised Business Question: Agreed to analyse which neighborhoods in NYC show untapped potential for Airbnb listings based on demand, pricing, and availability trends.
-- Task Assignments: Delegated EDA to myself and Raluca, while Stuart and Yassir focused on data preprocessing.
-- Data Challenges: Discussed handling missing values, outliers, and ensuring dataset consistency before clustering analysis.
-- Clustering Approach: Decided on using K-Means and Elbow Method to segment neighborhoods and identify investment opportunities.
-- Report Structure: Agreed to keep findings concise, focusing on key insights and visualisations to stay within the 1000-word limit.
-- Final Submission Plan: Ensured all artefacts, including code, visualisations, and appendices, were reviewed before submitting on time.
+- **Finalised Business Question:** Agreed to analyse which neighborhoods in NYC show untapped potential for Airbnb listings based on demand, pricing, and availability trends.
+- **Task Assignments:** Delegated EDA to myself and Raluca, while Stuart and Yassir focused on data preprocessing.
+- **Data Challenges:** Discussed handling missing values, outliers, and ensuring dataset consistency before clustering analysis.
+- **Clustering Approach:** Decided on using K-Means and Elbow Method to segment neighborhoods and identify investment opportunities.
+- **Report Structure:** Agreed to keep findings concise, focusing on key insights and visualisations to stay within the 1000-word limit.
+- **Final Submission Plan:** Ensured all artefacts, including code, visualisations, and appendices, were reviewed before submitting on time.
 
 ---
 

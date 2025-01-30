@@ -72,16 +72,28 @@ axes[0, 0].set_ylabel("MPG")
 axes[0, 0].set_title("MPG vs Weight")
 
 # Scatter plot of Horsepower vs MPG
-axes[0, 1].scatter(df['horsepower'], df['mpg'], alpha=0.5, color='r')
+axes[0, 1].scatter(df['horsepower'], df['mpg'], alpha=0.5, color='red')
 axes[0, 1].set_xlabel("Horsepower")
 axes[0, 1].set_ylabel("MPG")
 axes[0, 1].set_title("MPG vs Horsepower")
+
+# Scatter plot of Displacement vs MPG
+axes[1, 0].scatter(df['displacement'], df['mpg'], alpha=0.5, color='green')
+axes[1, 0].set_xlabel("Displacement")
+axes[1, 0].set_ylabel("MPG")
+axes[1, 0].set_title("MPG vs Displacement")
+
+# Scatter plot of Cylinders vs MPG
+axes[1, 1].scatter(df['cylinders'], df['mpg'], alpha=0.5, color='purple')
+axes[1, 1].set_xlabel("Cylinders")
+axes[1, 1].set_ylabel("MPG")
+axes[1, 1].set_title("MPG vs Cylinders")
 
 plt.tight_layout()
 plt.show()
 ```
 
-![image](https://github.com/user-attachments/assets/1e2b5124-9021-48fc-918a-fed5da6afafd)
+![image](https://github.com/user-attachments/assets/b873a015-18b5-4040-baae-946ec3a8e344)
 
 **Findings:** As expected, **MPG decreases as weight, horsepower, and engine displacement increase**.
 

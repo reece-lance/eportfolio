@@ -74,6 +74,10 @@ print(f"P-value: {p_value}")
 
 ![image](https://github.com/user-attachments/assets/2119e554-3e03-4f7b-9da7-47c0c7ea7dff)
 
+> **Pearson Correlation Coefficient: 0.718**
+
+> **P-value: 1.21e-37**
+
 ### Regression Analysis
 ```python
 from sklearn.linear_model import LinearRegression
@@ -116,9 +120,9 @@ intercept = regression_model.intercept_
 print(f"Slope: {slope}, Intercept: {intercept}")
 ```
 
-
-
 ![image](https://github.com/user-attachments/assets/4b4be529-819f-49fa-85d5-dfeaf5b21611)
+
+> **Slope: 6016.026, Intercept: 5.116e+11**
 
 ---
 

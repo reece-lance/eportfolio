@@ -82,9 +82,8 @@ multi_intercept = multi_linear_model.intercept_
 print(f"Multiple Linear Regression Equation: CO2 = {multi_slope[0]:.4f} * Volume + {multi_slope[1]:.4f} * Weight + {multi_intercept:.2f}")
 ```
 
-**Output:**
-
-Multiple Linear Regression Equation: CO2 = 0.0078 * Volume + 0.0076 * Weight + 79.69
+### **Multiple Linear Regression Output**
+> **CO2 = 0.0078 × Volume + 0.0076 × Weight + 79.69**
 
 ### **4. Polynomial Regression**
 ```python

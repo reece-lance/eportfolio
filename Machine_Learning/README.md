@@ -37,7 +37,7 @@ This project focused on analysing Airbnb’s business data using a data science 
 
 *[Examples of my work](./Team_Exercises/README.md)*
 
-#### Feedback Received (Not yet received):
+#### Feedback Received:
 - **Strengths:**
   - The business question was well-chosen and relevant to Airbnb's operations.
   - The methodology was solid, demonstrating a good understanding of data analysis, EDA, and machine learning techniques.

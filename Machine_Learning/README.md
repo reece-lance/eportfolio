@@ -83,7 +83,6 @@ An overview of individual tasks completed, including:
 - [Jaccard Coefficient Calculations](./Individual_Work/Jaccard_Coefficient_Calculations/README.md)
 - [K-Means Clustering Tutorial](./Individual_Work/K-Means_Clustering_Tutorial/README.md)
 - [Perceptron Activities](./Individual_Work/Perceptron_Activities/README.md)
-- [Emerging Research in ANN](./Individual_Work/Emerging_Research_in_ANN/README.md)
 - [Gradient Cost Function](./Individual_Work/Gradient_Cost_Function/README.md)
 - [CNN Model Activity](./Individual_Work/CNN_Model_Activity/README.md)
 - [CNN Tutorial](./Individual_Work/CNN_Tutorial/README.md)

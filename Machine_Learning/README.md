@@ -80,7 +80,6 @@ An overview of individual tasks completed, including:
 - [EDA Tutorial](./Individual_Work/EDA_Tutorial/README.md)
 - [Correlation and Regression](./Individual_Work/Correlation_and_Regression/README.md)
 - [Linear Regression with Scikit-Learn](./Individual_Work/Linear_Regression_with_Scikit-Learn/README.md)
-- [Clustering](./Individual_Work/Clustering/README.md)
 - [Jaccard Coefficient Calculations](./Individual_Work/Jaccard_Coefficient_Calculations/README.md)
 - [K-Means Clustering Tutorial](./Individual_Work/K-Means_Clustering_Tutorial/README.md)
 - [Perceptron Activities](./Individual_Work/Perceptron_Activities/README.md)

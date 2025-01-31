@@ -133,7 +133,7 @@ This task helped reinforce my understanding of **regression analysis** and the d
 As an individual assignment, this task allowed me to independently apply **various regression techniques** and evaluate their effectiveness in real-world datasets. Understanding the theoretical foundations of **covariance and correlation** was essential in determining which features significantly impact CO2 emissions.
 
 ### **Experience as a Development Team Member**
-Although this was an individual task, the skills developed—such as **data preprocessing, regression modeling, and visualization**—are highly applicable in **team projects**. These skills contribute to **collaborative data analysis**, ensuring that findings are well-communicated and interpreted effectively in a group setting.
+Although this was an individual task, the skills developed (such as **data preprocessing, regression modeling, and visualization**) are highly applicable in **team projects**. These skills contribute to **collaborative data analysis**, ensuring that findings are well-communicated and interpreted effectively in a group setting.
 
 ### **Impact on Professional & Personal Development**
 This exercise strengthened my ability to apply **data-driven decision-making** to real-world scenarios, particularly in **environmental impact analysis**. Understanding how variables interact in regression models is a fundamental skill in **data science, business intelligence, and predictive modeling**. The visualization techniques also helped refine my ability to **present analytical findings clearly**, a valuable skill in both academic and professional settings.

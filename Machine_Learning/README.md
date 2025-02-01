@@ -85,7 +85,6 @@ An overview of individual tasks completed, including:
 - [Perceptron Activities](./Individual_Work/Perceptron_Activities/README.md)
 - [Gradient Cost Function](./Individual_Work/Gradient_Cost_Function/README.md)
 - [CNN Model Activity](./Individual_Work/CNN_Model_Activity/README.md)
-- [CNN Tutorial](./Individual_Work/CNN_Tutorial/README.md)
 - [Model Performance Measurement](./Individual_Work/Model_Performance_Measurement/README.md)
 - [Future of Machine Learning](./Individual_Work/Future_of_Machine_Learning/README.md)
 

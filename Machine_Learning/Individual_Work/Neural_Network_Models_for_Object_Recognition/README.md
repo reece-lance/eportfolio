@@ -162,7 +162,7 @@ y_pred_classes = np.argmax(y_pred, axis=1)
 # Generate classification report
 report_dict = classification_report(y_true, y_pred_classes, target_names=class_labels, output_dict=True)
 
-# Create a summary DataFrame for visualization
+# Create a summary DataFrame for visualisation
 summary_df = pd.DataFrame(report_dict).transpose()
 summary_df = summary_df[['precision', 'recall', 'f1-score', 'support']]
 

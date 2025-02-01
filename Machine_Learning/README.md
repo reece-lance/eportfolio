@@ -54,9 +54,9 @@ This project focused on analysing Airbnb’s business data using a data science 
 
 This project strengthened my ability to use data science techniques in a structured, business-driven context and was a critical learning experience. Our collaboration skills were excellent, allowing us to derive insights from the dataset by successfully conduct EDA, clustering and statistical analysis. The report was very well structured and our methodology was good, however, we could have explored the business question and its impact a little deeper. Furthermore, some more advanced visualisation would have helped to enhance our findings. Overall, I am proud of our team's effort and will learn from this feedback to refine my approach in future analytical projects.
 
-Here is the [Analytical Report (Download)](Machine_Learning/Team_Exercises/Examples/team_project_report.docx)
+Here is the [Analytical Report (Download)](Team_Exercises/Examples/team_project_report.docx)
 
-Here is the [Full Code (Download)](Machine_Learning/Team_Exercises/Examples/exploratory_analysis.ipynb)
+Here is the [Full Code (Download)](Team_Exercises/Examples/exploratory_analysis.ipynb)
 
 ---
 

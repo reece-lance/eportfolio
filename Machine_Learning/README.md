@@ -73,6 +73,26 @@ A summary of notes made during meetings with my peers:
 
 ---
 
+### Individual Project: Neural Network Models for Object Recognition
+
+#### Overview
+
+This project involved the development of a neural network for object recognition using the CIFAR-10 dataset. The dataset comprises 60,000 colour images categorised into 10 distinct classes, such as airplanes, automobiles, birds, cats, and more. The project focused on data preprocessing, model design, training, and evaluation to assess the model's efficacy in classifying these images. The neural network was designed using convolutional layers for feature extraction, followed by dense layers for classification. Data augmentation techniques were applied to improve the model's generalisation capabilities, and various performance metrics were used to evaluate the results.
+
+*[Examples of my work](./Team_Exercises/README.md)*
+
+#### Evaluation of Project
+
+This project significantly enhanced my understanding of convolutional neural networks and their application in image classification tasks. Through hands-on experience with data preprocessing, model training, and evaluation, I developed a deeper appreciation for the complexities involved in machine learning projects. The feedback received highlighted areas for improvement, particularly in fine-tuning model parameters and exploring more sophisticated techniques. Overall, this project was a valuable learning experience, reinforcing my ability to apply theoretical knowledge to practical problems and contributing to my professional development in the field of data science.
+
+Here is the [Presentation Slides (Download)](./Individual_Work/Neural_Network_Models_for_Object_Recognition/presentation.pptx)
+
+Here is the [Presentation Script (Download)](./Individual_Work/Neural_Network_Models_for_Object_Recognition/presentation-script.docx)
+
+Here is the [Full Code (Download)](./Individual_Work/Neural_Network_Models_for_Object_Recognition/cifar-10-project-code.ipynb)
+
+---
+
 ### Individual Work
 
 An overview of individual tasks completed, including:

@@ -67,7 +67,7 @@ plt.show()
 
 **12 Correct Predictions**
 
-**4 Correct Predictions**
+**4 Incorrect Predictions**
 
 **75% Correct**
 

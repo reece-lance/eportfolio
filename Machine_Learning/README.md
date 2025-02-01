@@ -106,7 +106,6 @@ An overview of individual tasks completed, including:
 - [Gradient Cost Function](./Individual_Work/Gradient_Cost_Function/README.md)
 - [CNN Model Activity](./Individual_Work/CNN_Model_Activity/README.md)
 - [Model Performance Measurement](./Individual_Work/Model_Performance_Measurement/README.md)
-- [Neural Network Models for Object Recognition](./Individual_Work/Neural_Network_Models_for_Object_Recognition/README.md)
 
 ---
 

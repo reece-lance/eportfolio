@@ -9,38 +9,6 @@ In this task, I explored the ethical and social implications of Convolutional Ne
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
-from keras.datasets import cifar10
-from keras.models import Sequential
-from keras.layers import Dense, Conv2D, MaxPooling2D, Flatten
-from tensorflow.keras.utils import to_categorical
-
-# Load CIFAR-10 dataset
-(x_train_all, y_train_all), (x_test, y_test) = cifar10.load_data()
-
-# Normalize the data
-x_train_all = x_train_all.astype('float32') / 255.0
-x_test = x_test.astype('float32') / 255.0
-
-# Convert class vectors to binary class matrices
-y_train_all = to_categorical(y_train_all, 10)
-y_test_cat = to_categorical(y_test, 10)
-
-# Build the CNN model
-model = Sequential([
-    Conv2D(32, (3, 3), activation='relu', input_shape=(32, 32, 3)),
-    MaxPooling2D(pool_size=(2, 2)),
-    Conv2D(64, (3, 3), activation='relu'),
-    MaxPooling2D(pool_size=(2, 2)),
-    Flatten(),
-    Dense(128, activation='relu'),
-    Dense(10, activation='softmax')
-])
-
-# Compile the model
-model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
-
-# Train the model
-history = model.fit(x_train_all, y_train_all, epochs=3, batch_size=64, validation_data=(x_test, y_test_cat))
 
 # Display 4x4 grid of images with predictions
 LABEL_NAMES = ['airplane', 'automobile', 'bird', 'cat', 'deer', 'dog', 'frog', 'horse', 'ship', 'truck']

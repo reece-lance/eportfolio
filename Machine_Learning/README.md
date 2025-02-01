@@ -85,7 +85,7 @@ This project involved the development of a neural network for object recognition
 
 This project significantly enhanced my understanding of convolutional neural networks and their application in image classification tasks. Through hands-on experience with data preprocessing, model training, and evaluation, I developed a deeper appreciation for the complexities involved in machine learning projects. The feedback received highlighted areas for improvement, particularly in fine-tuning model parameters and exploring more sophisticated techniques. Overall, this project was a valuable learning experience, reinforcing my ability to apply theoretical knowledge to practical problems and contributing to my professional development in the field of data science.
 
-Here is the [Presentation Slides (Download)](./Individual_Work/Neural_Network_Models_for_Object_Recognition/presentation.pptx.zip)
+Here is the [Presentation Slides (Download)](https://github.com/reece-lance/eportfolio/releases/download/v1.0/presentation.pptx)
 
 Here is the [Presentation Script (Download)](./Individual_Work/Neural_Network_Models_for_Object_Recognition/presentation-script.docx)
 

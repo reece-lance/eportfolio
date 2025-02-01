@@ -39,6 +39,36 @@ plt.show()
 
 **75% Correct**
 
+```python
+# Create confusion matrix
+cm = confusion_matrix(true_classes, predicted_classes)
+LABEL_NAMES = ['airplane', 'automobile', 'bird', 'cat', 'deer', 'dog', 'frog', 'horse', 'ship', 'truck']
+
+# Display confusion matrix
+fig, ax = plt.subplots(figsize=(12, 10))
+disp = ConfusionMatrixDisplay(confusion_matrix=cm, display_labels=LABEL_NAMES)
+disp.plot(cmap='Blues', xticks_rotation=45, ax=ax)
+plt.title('Confusion Matrix')
+plt.show()
+```
+
+![image](https://github.com/user-attachments/assets/da50043e-512f-43cf-8413-1cc38ada25a6)
+
+```python
+# Mask the diagonal to exclude correct predictions
+cm_no_diag = cm.copy()
+np.fill_diagonal(cm_no_diag, 0)
+
+# Find the most common misclassifications
+misclassified_indices = np.unravel_index(np.argmax(cm_no_diag), cm_no_diag.shape)
+most_misclassified_actual = LABEL_NAMES[misclassified_indices[0]]
+most_misclassified_predicted = LABEL_NAMES[misclassified_indices[1]]
+
+print(f"Most common misclassification: {most_misclassified_actual} predicted as {most_misclassified_predicted}")
+```
+
+> **Most common misclassification: dog predicted as cat**
+
 ---
 
 ## Reflection

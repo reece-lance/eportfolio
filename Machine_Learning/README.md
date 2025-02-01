@@ -79,7 +79,7 @@ A summary of notes made during meetings with my peers:
 
 This project involved the development of a neural network for object recognition using the CIFAR-10 dataset. The dataset comprises 60,000 colour images categorised into 10 distinct classes, such as airplanes, automobiles, birds, cats, and more. The project focused on data preprocessing, model design, training, and evaluation to assess the model's efficacy in classifying these images. The neural network was designed using convolutional layers for feature extraction, followed by dense layers for classification. Data augmentation techniques were applied to improve the model's generalisation capabilities, and various performance metrics were used to evaluate the results.
 
-*[Examples of my work](./Team_Exercises/README.md)*
+*[Examples of my work](./Individual_Work/Neural_Network_Models_for_Object_Recognition/README.md)*
 
 #### Evaluation of Project
 

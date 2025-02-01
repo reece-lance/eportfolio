@@ -125,7 +125,12 @@ Key points from my [Full Reflective Piece](./Professional_Development/reflection
 
 I have gained or enhanced the following skills:
 
-- 
+- Exploratory Data Analysis (EDA) and data preprocessing techniques
+- Application of machine learning algorithms, including clustering and neural networks
+- Data visualisation and presentation of analytical findings
+- Collaborative teamwork in virtual development environments
+- Critical evaluation of ethical, legal, and professional issues in machine learning
+- Model performance measurement and optimisation techniques
 
 These skills are vital to my professional growth and will serve as a foundation for future roles in data science.
 
@@ -135,4 +140,11 @@ These skills are vital to my professional growth and will serve as a foundation 
 
 To build on the skills developed during the **Machine Learning** module, my action plan focuses on advancing my technical and strategic capabilities:
 
-- 
+- Deepen understanding of advanced machine learning algorithms and their applications.
+- Improve data visualisation skills using Python libraries like Matplotlib and Seaborn for more impactful insights.
+- Explore advanced model optimisation techniques, including hyperparameter tuning and regularisation.
+- Engage in continuous learning about the ethical and legal implications of machine learning in real-world contexts.
+- Participate in collaborative projects to enhance teamwork and project management skills in data science environments.
+- Apply machine learning techniques to diverse datasets to strengthen problem-solving and analytical abilities.
+- Develop proficiency in deep learning frameworks such as TensorFlow or PyTorch for complex model building.
+- Seek feedback from peers and mentors to refine technical approaches and presentation skills.

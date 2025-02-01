@@ -1,1 +1,85 @@
 
+# Development Team Project: Project Report
+
+## Introduction
+
+The hotel industry has undergone significant changes due to the introduction of online platforms, with customer behaviours relying on online ratings and peers' opinions, pricing, and distance to touristic attractions (Urvashi et al, 2021). Airbnb has rapidly grown to become one of the top travel accommodation solutions, with New York seeing significant growth in Airbnb usage, positively affecting the sector (Jiao et al, 2020). This report poses a business question about Airbnb's growth within New York City. Following data pre-processing and exploratory analysis, the dataset provides details on listings, price, geolocation and availability, property types, and review history.
+
+The analysis assesses which neighbourhoods show untapped potential for growth, based on current demand, pricing, and availability trends; this enables targeting of areas where new listings could thrive, balancing supply and demand. Focusing on growth potential in underutilised areas could lead to increased revenue by optimising listings and attracting more hosts in these neighbourhoods.
+
+Lesser-known neighbourhoods close to major landmarks may see increased demand as people seek authentic experiences or cheaper alternatives to established hotspots, which in turn can lead to an increase in revenue.
+
+## Methodology
+
+### Data Pre-Processing
+
+The data is in good condition, with few features with missing or invalid values. ID, listing name, host ID, host name, and the date of the last review have been removed as they are not well suited to use in a linear model. The last review date could have been used as a popularity metric, however, the number of reviews per month is more suited. These two features have a Spearman correlation of 0.8, as shown in Figure 1. Considering that both features have null values, and most machine learning algorithms prefer uncorrelated features, only reviews per month was kept, with null values set to 0. The availability feature was converted from days to a percentage for ease of interpretation.
+
+
+
+**Figure 1: Correlation matrix of numeric features**
+
+The dataset contains some significant outliers. The price field has a long-tailed distribution that will make it difficult for a model to learn from. Price field and minimum nights fields contain values that are either errors or that are not representative of the short-term rental market. Thus, only data with a price in the range of $20-$300 and fewer than 30 minimum nights will be considered in the analysis. The remaining outliers in number of reviews, reviews per month, and host listing count were then capped to reasonable values, the result is shown in Figure 2.
+
+**Figure 2: Distributions of selected features**
+
+The data was then augmented by adding the distances from each set of coordinates to a selection of 7 popular landmarks in NYC.
+
+### Data Analysis
+
+Initial analysis focused on the trends in price and availability with Staten Island and Bronx having moderate prices and high availability which might indicate untapped growth potential. However, the prices and availability can be explained by other features not included in the dataset such as neighbourhood safety, crime statistics, or neighbourhood amenities such as proximity to public transport (Airbtics, 2023).
+
+**Figure 3: Price and availability by neighbourhood group**
+
+To check if prices differ significantly across neighbourhoods, a Kruskal-Wallis test was undertaken which indicates that there is strong evidence to reject the null hypothesis. After removing outliers, the Kruskal-Wallis result of 4627.59 with a p-value of 0.0 indicates that the differences between groups are pronounced.
+
+**Figure 4: Price distribution by neighbourhood group after outliers are removed**
+
+Figure 3 highlights neighbourhoods based on demand and availability thresholds. The thresholds are dynamically calculated using percentiles to adapt to the data distribution and the interactive popups include details about the neighbourhood, such as average reviews, availability, price, and top listing. Potential growth can be found in neighbourhoods such as Little Italy, Woodlawn, and City Island.
+
+**Figure 5: Demand and Availability map**
+
+Figure 4 groups neighbourhoods into clusters based on key metrics such as price, demand, and availability (Scikit-learn Documentation, 2024).
+
+Each cluster highlights neighbourhoods with similar characteristics, helping to identify patterns such as similar pricing or availability trends.
+
+**Figure 6: Clustered map**
+
+Multiple regression shows 53% of the variance is explained by the model features. It is usual to have moderate R-squares for housing models due to variability in pricing. The model is not overfitting and generalises well to unknown data.
+
+Positive price gaps indicate that the predicted values are higher than the actual price which might suggest that the neighbourhoods are undervalued. Further research looking into each neighbourhood would be useful. Additional data such as demographics, safety, public transport, and other amenities can help explain the difference in pricing.
+
+With the current data, we can check if a neighbourhood has a large price gap but low demand (e.g., low number_of_reviews or reviews_per_month), as it may indicate a lack of awareness rather than untapped potential. Conversely, high demand and a price gap might confirm real untapped potential.
+
+**Figure 7: Top neighbourhoods with the largest Price Gaps**
+
+Random Forest Regression was used to predict the prices based on all available features with a training R-squared: 0.5300, and test R-squared: 0.5377. The R-squared is reasonable for the given dataset and the results are similar to the Multiple regression, which might show untapped potential. The actual vs predicted prices are fitting well in the middle with the minimum and maximum showing significant differences.
+
+**Figure 8: Actual vs predicted prices based on Random Forest**
+
+The statistics for each neighbourhood highlight that the model struggles to capture the low and high prices, this is expected as those regions were removed as outliers. However, the mean prices are well matched between the actual and predicted prices, indicating that the model is missing specific nuances but capturing the overall trend.
+
+To assess how important the geographical position is to the pricing, a Random Forest Regression based only on the proximity to different landmarks has been undertaken with the model explaining around 28% (Training R-squared: 0.2811) of the variance, with 'distance_to_Empire_State_Building' having the most impact on the price out of all the other landmarks.
+
+**Figure 10: Predicted price feature importance in Random Forest**
+
+**Figure 11: Actual vs predicted prices by neighbourhood based on Random Forest**
+
+## Recommendations
+
+There is significant potential for growth in Staten Island and The Bronx due to moderate pricing and high availability. Airbnb should focus on these boroughs, encouraging new listings in high-demand areas near major landmarks (Investopedia, 2023). Offering incentives such as reduced fees or promotional support may attract more hosts to these underused neighbourhoods. They could also promote private rooms in affordable areas and entire homes in premium areas, optimising room types based on area-specific trends to maximise revenue. Encouragement of dynamic pricing strategies would help with fluctuation in demand, availability, and location-specific trends.
+
+## Conclusion
+
+The analysis highlights boroughs such as Staten Island and The Bronx as areas with untapped growth potential, where affordable pricing and high demand present significant opportunities. By targeting these neighbourhoods and adopting data-driven strategies, Airbnb can expand its market, increase host participation, and optimise revenue (AirDNA, 2023). These insights offer a strategic pathway for growth while providing actionable guidance for both Airbnb and its hosts.
+
+## References
+
+- Urvashi, SH. & Gupta, D. (2021). Analyzing the applications of internet of things in hotel industry. *Journal of Physics*, 6(1969), 26-27.
+- Jiao, J., & Bai, S. (2020). Cities reshaped by Airbnb: A case study in New York City, Chicago, and Los Angeles. *Environment and Planning A: Economy and Space*, 52(1), 10-13.
+- Dgomonov. (2019). New York City Airbnb Open Data. Available at: https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data/data
+- Airbtics. (2023). 'Best Airbnb Markets in New York'. Available at: https://airbtics.com/best-airbnb-markets-in-new-york/
+- Investopedia. (2023). 'Early Impacts of New York City's Airbnb Regulations'. Available at: https://www.investopedia.com/new-york-city-enforces-de-facto-ban-of-airbnbs-7967344
+- Scikit-learn Documentation. (2024). 'Clustering Methods'. Available at: https://scikit-learn.org/stable/modules/clustering.html
+- GeoNames.org. (2024). GeoNames geographical database. Available at: https://www.geonames.org/
+- AirDNA. (2023). 'Airbnb Data on 34,472 Vacation Rentals in New York, NY'. Available at: https://www.airdna.co/vacation-rental-data/app/us/new-york/new-york/overview

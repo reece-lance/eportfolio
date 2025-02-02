@@ -138,7 +138,7 @@ These skills are vital to my professional growth and will serve as a foundation 
 
 ### Action Plan
 
-To build on the skills developed during the **Machine Learning** module, my action plan focuses on advancing my technical and strategic capabilities:
+To build on the skills developed during the Machine Learning module, my action plan focuses on advancing my technical and strategic capabilities:
 
 - Deepen understanding of advanced machine learning algorithms and their applications.
 - Improve data visualisation skills using Python libraries like Matplotlib and Seaborn for more impactful insights.

@@ -118,17 +118,11 @@ An overview of individual tasks completed, including:
 Key points from my [Full Reflective Piece](./Professional_Development/reflection.md):
 
 - **Applied Machine Learning:** Used linear regression and K-Means clustering to analyse Airbnb data for NYC growth potential.
-
 - **CNN Experience:** Improved skills in designing and evaluating CNNs through the CIFAR-10 object recognition project.
-
 - **Ethical Insights:** Explored AI biases and cybersecurity risks, using the 2018 British Airways data breach as an example.
-
 - **Peer Feedback Impact:** Gained deeper understanding of Zero Trust Architecture and the importance of human oversight in AI.
-
 - **Data Visualisation:** Created interactive maps and performed ANOVA tests to identify pricing trends in Airbnb data.
-
 - **Ongoing Learning:** Plan to study hyperparameter tuning, ensemble methods, and deepen skills in TensorFlow and PyTorch.
-
 - **Professional Growth:** Boosted confidence in presenting technical findings to diverse audiences, improving communication skills.
 
 ---

@@ -60,7 +60,7 @@ Belbin, R.M. and Brown, V. (2022). Team Roles at Work. 3rd ed. Abingdon: Routled
 
 Dietterich, T. G. (2000). Ensemble methods in machine learning. International Workshop on Multiple Classifier Systems. Springer, Berlin, Heidelberg. Available at: https://link.springer.com/content/pdf/10.1007/3-540-45014-9_1.pdf
 
-Rolfe, G., Freshwater, D., & Jasper, M. (2001). Critical Reflection for Nursing and the Helping Professions: A User's Guide. Palgrave MacMillan. Available at: https://www.palgrave.com/gp/book/9780333777955
+Rolfe, G., Freshwater, D., & Jasper, M. (2001). Critical Reflection for Nursing and the Helping Professions: A User's Guide. Palgrave MacMillan.
 
 The University of Edinburgh. (2024) Reflection Toolkit. Available at: https://reflection.ed.ac.uk/reflectors-toolkit/reflecting-on-experience
 

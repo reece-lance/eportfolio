@@ -1,4 +1,4 @@
-# Reflective Piece: Machine Learning Module
+# Reflective Piece
 
 ## Introduction
 

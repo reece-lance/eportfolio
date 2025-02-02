@@ -54,7 +54,7 @@ In conclusion, the Machine Learning module has given my technical, ethical and t
 
 # References
 
-References:Barocas, S., Hardt, M., & Narayanan, A. (2019). Fairness and Machine Learning. Available at: https://fairmlbook.org/pdf/fairmlbook.pdf
+Barocas, S., Hardt, M., & Narayanan, A. (2019). Fairness and Machine Learning. Available at: https://fairmlbook.org/pdf/fairmlbook.pdf
 
 Belbin, R. M. (2010). Team Roles at Work. Available at: https://www.belbin.com/media/3471/team-roles-at-work-2nd-edition.pdf
 

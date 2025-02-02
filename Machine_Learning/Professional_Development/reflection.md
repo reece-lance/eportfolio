@@ -56,7 +56,7 @@ In conclusion, the Machine Learning module has given my technical, ethical and t
 
 Barocas, S., Hardt, M., & Narayanan, A. (2019). Fairness and Machine Learning. Available at: https://fairmlbook.org/pdf/fairmlbook.pdf
 
-Belbin, R. M. (2010). Team Roles at Work. Available at: https://www.belbin.com/media/3471/team-roles-at-work-2nd-edition.pdf
+Belbin, R.M. and Brown, V. (2022). Team Roles at Work. 3rd ed. Abingdon: Routledge. Available at: https://doi.org/10.4324/9781003163152
 
 Dietterich, T. G. (2000). Ensemble methods in machine learning. International Workshop on Multiple Classifier Systems. Springer, Berlin, Heidelberg. Available at: https://link.springer.com/content/pdf/10.1007/3-540-45014-9_1.pdf
 

@@ -32,24 +32,51 @@ The Research Methods & Professional Practice module provides a practical foundat
 
 #### Overview
 
-This section includes artefacts and reflections relating to the literature review process and the development of my research proposal. It covers my initial outline, peer-reviewed feedback, and post-submission evaluation. These artefacts demonstrate my ability to formulate and refine a research topic using academic principles and constructive critique.
+This section includes the two summative assignments completed for this module — a written literature review and a research proposal presentation. These artefacts demonstrate my ability to critically engage with academic sources, develop a structured research question, and propose a clear methodology for a future MSc-level research project. Both assessments relate to the topic of data visualisation in the UK highway maintenance sector.
 
-*[Examples of my work](./Individual_Work/Literature_Review/README.md)*
+---
 
-#### Feedback Received:
-- **Strengths:**
-  - Good understanding of structure and relevance of the topic.
-  - Appropriate referencing and critical engagement with the literature.
-  - Demonstrated understanding of ethical concerns.
-- **Areas for Improvement:**
-  - Research question could be more focused.
-  - More clarity was needed in identifying data sources and collection strategies.
+#### Literature Review (30% of module mark)
 
-#### Evaluation of Work
+**Title**: *Visualising Infrastructure Performance: A Review of Data Visualisation Techniques in UK Highway Management*  
+This literature review aimed to provide a structured critical evaluation of current methods, challenges, and tools used to visualise performance data in the UK's road maintenance sector. It explored academic and industry literature covering operational dashboards, predictive analytics, GIS mapping, and accessibility of data for stakeholders. Particular focus was placed on my own practical experiences as a Performance Analyst at Marlborough Highways.
 
-The literature review and proposal tasks allowed me to develop a deeper understanding of research strategy, ethical considerations, and the importance of coherent methodology. Feedback encouraged more focus and clarity, which I plan to incorporate into future work.
+*[Download the full Literature Review](./Individual_Work/Literature_Review_Outline/Literature%20Review.docx)*  
+*[Download the Marker Feedback](./Individual_Work/Literature_Review_Outline/Reece%20Lance_RRMP%20Summative%20Feedback%20Template%20(Literature%20Review).pdf)*
 
-Here is the [Research Proposal Presentation Slides (Download)](./Individual_Work/)
+##### Feedback Received:
+- **Strengths**:
+  - Demonstrated very good topic knowledge with clear relevance to practice.
+  - Structure was coherent and the writing style showed potential for academic development.
+  - Clear attempt to link practical application and industry context.
+- **Areas for Improvement**:
+  - Too many disconnected sub-sections and a tendency to “list” points rather than fully develop paragraphs.
+  - Limited use of regular citation throughout paragraphs; more consistent source integration was recommended.
+  - Needed deeper critical discussion with clearer comparison of views and evidence.
+
+##### Evaluation of Work
+
+This assignment helped strengthen my ability to evaluate academic literature and apply it to a practical problem. It also introduced me to expectations around paragraph-level criticality, frequent in-paragraph citation, and thematic focus. I will take this feedback forward by improving how I structure future academic discussions and how I integrate critique into my writing more effectively.
+
+---
+
+#### Research Proposal Presentation (30% of module mark)
+
+**Title**: *Visualising Performance in UK Highway Maintenance: An Analysis of Innovative Approaches*  
+This presentation proposed a research project that builds directly upon the themes in my literature review. The aim was to investigate how advanced visualisation techniques — such as dashboards, geospatial tools, and scenario modelling — could support transparency, decision-making, and stakeholder engagement in the public highway sector.
+
+The project outlines the problem context, proposed artefact (an interactive dashboard), methodology (cross-sector review, interviews, and comparative analysis), and practical outputs for real-world implementation in line with current government digital transformation goals.
+
+*[Download the Slide Deck (PowerPoint)](./Individual_Work/Research_Proposal_Evaluation/Research-Proposal-Presentation.pptx)*  
+*[Download the Full Script (Transcript)](./Individual_Work/Research_Proposal_Evaluation/Research-Proposal-Script.docx)*
+
+##### Evaluation of Work
+
+Although feedback has not yet been received, the structure and delivery of this proposal followed the assignment brief closely, including coverage of literature, ethical considerations, and the timeline for planned research. This was also a valuable opportunity to practice communicating complex research ideas to a non-specialist audience, which I consider essential for real-world impact.
+
+---
+
+
 
 ---
 

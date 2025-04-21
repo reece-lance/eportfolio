@@ -34,7 +34,7 @@ The Research Methods & Professional Practice module provides a practical foundat
 
 This section includes artefacts and reflections relating to the literature review process and the development of my research proposal. It covers my initial outline, peer-reviewed feedback, and post-submission evaluation. These artefacts demonstrate my ability to formulate and refine a research topic using academic principles and constructive critique.
 
-*[Examples of my work](./Individual_Work/Literature_Review_Outline/README.md)*
+*[Examples of my work](./Individual_Work/Literature_Review/README.md)*
 
 #### Feedback Received:
 - **Strengths:**
@@ -49,7 +49,7 @@ This section includes artefacts and reflections relating to the literature revie
 
 The literature review and proposal tasks allowed me to develop a deeper understanding of research strategy, ethical considerations, and the importance of coherent methodology. Feedback encouraged more focus and clarity, which I plan to incorporate into future work.
 
-Here is the [Proposal Evaluation Summary (Download)](./Individual_Work/Research_Proposal_Evaluation/proposal-review-summary.docx)
+Here is the [Research Proposal Presentation Slides (Download)](./Individual_Work/)
 
 ---
 

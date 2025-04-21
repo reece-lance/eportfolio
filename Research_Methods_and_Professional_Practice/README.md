@@ -21,84 +21,113 @@ The Research Methods & Professional Practice module provides a practical foundat
 
 ---
 
-### Collaborative Discussion Forum Summaries
+### Collaborative Discussion Forum Summary
 
-- [Collaborative Discussion 1 – Ethics and Professional Practice](./Collaborative_Discussions/Discussion_1_Ethics/README.md)
-- [Collaborative Discussion 2 – Reflecting on the Research Process](./Collaborative_Discussions/Discussion_2_Reflection/README.md)
+- [Collaborative Discussion – Ethics and Professional Practice](./Collaborative_Discussions/Discussion_1_Ethics/README.md)
+<!-- Collaborative Discussion 2 omitted due to non-submission -->
 
 ---
 
-### Statistics Exercises
+### Literature Review and Proposal Development
 
 #### Overview
 
-This section presents core statistical analysis activities from Units 8 and 9, covering exploratory data analysis (EDA), visualisation, and statistical testing. Tasks were completed using Python and Jupyter Notebooks and include code walkthroughs, annotated outputs, and discussion of results in relation to research practice.
+This section includes artefacts and reflections relating to the literature review process and the development of my research proposal. It covers my initial outline, peer-reviewed feedback, and post-submission evaluation. These artefacts demonstrate my ability to formulate and refine a research topic using academic principles and constructive critique.
+
+*[Examples of my work](./Individual_Work/Literature_Review_Outline/README.md)*
+
+#### Feedback Received:
+- **Strengths:**
+  - Good understanding of structure and relevance of the topic.
+  - Appropriate referencing and critical engagement with the literature.
+  - Demonstrated understanding of ethical concerns.
+- **Areas for Improvement:**
+  - Research question could be more focused.
+  - More clarity was needed in identifying data sources and collection strategies.
+
+#### Evaluation of Work
+
+The literature review and proposal tasks allowed me to develop a deeper understanding of research strategy, ethical considerations, and the importance of coherent methodology. Feedback encouraged more focus and clarity, which I plan to incorporate into future work.
+
+Here is the [Proposal Evaluation Summary (Download)](./Individual_Work/Research_Proposal_Evaluation/proposal-review-summary.docx)
+
+---
+
+### Statistics and Analysis Tasks
+
+#### Overview
+
+This section includes my practical work on statistics from Units 8–10. Artefacts include exploratory data analysis, data visualisation, and hypothesis testing. These were completed using Python and support the development of data analysis competence aligned to research design.
 
 *[Examples of my work](./Statistics_Work/README.md)*
 
----
-
-### Literature Review and Research Proposal Evaluation
-
-This section reflects on the development of my literature review and research proposal, evaluating topic selection, feedback received, academic sources, structure, and methodology. The evaluation demonstrates how the proposals align with academic standards and outlines opportunities for refinement.
-
-*[Evaluation and Reflection](./Individual_Work/Proposal_Reflection/README.md)*
+Here is the [Exploratory Data Analysis Notebook](./Statistics_Work/Unit_8_EDA.ipynb)  
+Here is the [Statistical Testing Notebook](./Statistics_Work/Unit_9_Tests.ipynb)  
+Here is the [Charts and Visualisation Worksheet](./Statistics_Work/Charts_Worksheet/README.md)  
+Here is the [Inferential Statistics Worksheet Summary](./Statistics_Work/Statistical_Worksheets_Summary.md)
 
 ---
 
-### Skills Matrix and SWOT Analysis
+### Meeting Notes
 
-Presented here is my self-assessment of academic and professional competencies at the beginning of the module, followed by a SWOT analysis and review of progress. This forms part of the broader reflection on my development throughout the module.
+A summary of key learning activities and reflective moments during seminars and peer review:
 
-*[Skills Overview](./Individual_Work/Skills_Matrix_SWOT/README.md)*
-
----
-
-### Individual Contributions
-
-A breakdown of my independent work, including statistics exercises, proposal drafting, and reflective evaluation. Screenshots, notebooks, and commentary evidence my ability to apply key principles independently and to professional standards.
+- **Seminar 2 (Peer Review):** Shared draft proposal with peers, received feedback on narrowing the focus of the research question.
+- **Seminar 3 (Privacy Case Study):** Discussed issues of data protection and privacy in academic research, reinforcing the importance of anonymisation and secure storage.
+- **Seminar 4 (Statistics Workshop):** Explored inferential methods and data interpretation.
+- **Unit 11 (e-Portfolio Planning):** Finalised structure and checked alignment with learning outcomes.
 
 ---
 
-### Professional Development Plan
+### Individual Work
+
+An overview of reflective and formative activities completed during the module:
+
+- [Reflective Activity 1 – Ethics in Computing](./Individual_Work/Reflection_Ethics/README.md)
+- [Case Study – Inappropriate Use of Surveys](./Individual_Work/Survey_Reflection/README.md)
+- [Wiki Activity – Designing Questionnaires](./Individual_Work/Questionnaire_Wiki/README.md)
+- [Privacy Case Study Summary](./Individual_Work/Privacy_Case_Study/README.md)
+- [Charts Worksheet Submission](./Statistics_Work/Charts_Worksheet/README.md)
 
 ---
 
-#### My Reflections
+## Professional Development Plan
+
+---
+
+### My Reflections
 
 Key points from my [Full Reflective Piece (1000 words)](./Professional_Development/Reflection.md):
 
-- **Research Ethics:** Gained confidence in navigating ethical concerns and recognising the responsibilities of computing professionals.
-- **Statistical Skills:** Developed ability to perform descriptive and inferential statistical analysis using Python.
-- **Proposal Writing:** Learned how to construct a coherent and critically evaluated research proposal based on current literature.
-- **Professional Self-Awareness:** Built understanding of my personal strengths and limitations through SWOT and skills analysis.
-- **Practical Application:** Began applying research planning techniques in other modules and real-world scenarios.
-- **Reflective Practice:** Improved ability to think critically about learning processes and future professional development.
+- **Ethics & Responsibility:** Gained confidence in ethical approval processes and awareness of responsibilities in research involving human participants.
+- **Statistical Development:** Learned how to apply exploratory and inferential statistical techniques to structured data.
+- **Academic Research Skills:** Improved ability to identify research gaps, refine questions, and use peer-reviewed literature effectively.
+- **Professional Growth:** Used self-assessment tools (SWOT and Skills Matrix) to reflect on strengths and areas for improvement.
+- **Practical Application:** Started applying academic research principles to early thinking for my MSc project.
 
 ---
 
-#### Professional Skills Gained
+### Professional Skills Gained
 
-I have gained or strengthened the following skills:
+I have gained or enhanced the following skills:
 
-- Research design and planning for computing-related topics  
-- Quantitative analysis using statistical programming  
-- Interpretation of academic literature and peer-reviewed sources  
-- Ethical awareness and legal considerations in research  
-- Critical thinking and reflective evaluation  
-- Professional self-assessment and goal-setting
+- Research design and planning for computing-related investigations  
+- Quantitative analysis using Python (pandas, matplotlib, scipy)  
+- Literature evaluation and synthesis  
+- Ethical awareness and understanding of professional codes  
+- Critical reflection and academic writing  
+- Time management and independent work  
 
 ---
 
-#### Action Plan
+### Action Plan
 
-To continue building upon this module’s outcomes, I aim to:
+To build on the skills developed during this module, I plan to:
 
-- Engage in applied research projects using both qualitative and quantitative methods  
-- Continue developing Python skills, especially in data analysis libraries (Pandas, SciPy, Statsmodels)  
-- Explore more advanced inferential tests for hypothesis-driven research  
-- Strengthen my academic writing and referencing  
-- Prepare early for the MSc Capstone by identifying potential artefact-driven topics  
-- Seek feedback regularly and integrate reflection into every major project
+- Explore more advanced statistical tests relevant to computing and behavioural research  
+- Start scoping viable topics for my MSc project with a focus on artefact creation  
+- Improve visualisation and presentation of results using libraries such as Seaborn and Plotly  
+- Seek peer feedback on future proposal drafts and integrate early ethics considerations  
+- Use GitHub e-Portfolios actively to document my ongoing professional development  
 
 ---

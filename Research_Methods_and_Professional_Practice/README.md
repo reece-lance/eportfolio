@@ -32,11 +32,11 @@ The Research Methods & Professional Practice module provides a practical foundat
 
 #### Overview
 
-This section includes the two summative assignments completed for this module — a written literature review and a research proposal presentation. These artefacts demonstrate my ability to critically engage with academic sources, develop a structured research question, and propose a clear methodology for a future MSc-level research project. Both assessments relate to the topic of data visualisation in the UK highway maintenance sector.
+This section includes the two assignments completed for this module — a written literature review and a research proposal presentation. These artefacts demonstrate my ability to critically engage with academic sources, develop a structured research question, and propose a clear methodology for a future MSc-level research project. Both assessments relate to the topic of data visualisation in the UK highway maintenance sector.
 
 ---
 
-#### Literature Review (30% of module mark)
+#### Literature Review
 
 **Title**: *Visualising Infrastructure Performance: A Review of Data Visualisation Techniques in UK Highway Management*  
 This literature review aimed to provide a structured critical evaluation of current methods, challenges, and tools used to visualise performance data in the UK's road maintenance sector. It explored academic and industry literature covering operational dashboards, predictive analytics, GIS mapping, and accessibility of data for stakeholders. Particular focus was placed on my own practical experiences as a Performance Analyst at Marlborough Highways.
@@ -44,7 +44,7 @@ This literature review aimed to provide a structured critical evaluation of curr
 *[Download the full Literature Review](./Individual_Work/Literature_Review_Outline/Literature_Review.docx)*  
 *[Download the Marker Feedback](./Individual_Work/Literature_Review_Outline/Reece_Lance_RRMP_Summative_Feedback_Template_(Literature_Review).pdf)*
 
-##### Feedback Received:
+#### Feedback Received:
 - **Strengths**:
   - Demonstrated very good topic knowledge with clear relevance to practice.
   - Structure was coherent and the writing style showed potential for academic development.
@@ -54,7 +54,7 @@ This literature review aimed to provide a structured critical evaluation of curr
   - Limited use of regular citation throughout paragraphs; more consistent source integration was recommended.
   - Needed deeper critical discussion with clearer comparison of views and evidence.
 
-##### Evaluation of Work
+#### Evaluation of Work
 
 This assignment helped strengthen my ability to evaluate academic literature and apply it to a practical problem. It also introduced me to expectations around paragraph-level criticality, frequent in-paragraph citation, and thematic focus. I will take this feedback forward by improving how I structure future academic discussions and how I integrate critique into my writing more effectively.
 

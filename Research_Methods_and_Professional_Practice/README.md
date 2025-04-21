@@ -60,7 +60,7 @@ This assignment helped strengthen my ability to evaluate academic literature and
 
 ---
 
-#### Research Proposal Presentation (30% of module mark)
+#### Research Proposal Presentation
 
 **Title**: *Visualising Performance in UK Highway Maintenance: An Analysis of Innovative Approaches*  
 This presentation proposed a research project that builds directly upon the themes in my literature review. The aim was to investigate how advanced visualisation techniques — such as dashboards, geospatial tools, and scenario modelling — could support transparency, decision-making, and stakeholder engagement in the public highway sector.

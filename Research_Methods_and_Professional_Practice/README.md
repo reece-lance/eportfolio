@@ -41,8 +41,8 @@ This section includes the two summative assignments completed for this module �
 **Title**: *Visualising Infrastructure Performance: A Review of Data Visualisation Techniques in UK Highway Management*  
 This literature review aimed to provide a structured critical evaluation of current methods, challenges, and tools used to visualise performance data in the UK's road maintenance sector. It explored academic and industry literature covering operational dashboards, predictive analytics, GIS mapping, and accessibility of data for stakeholders. Particular focus was placed on my own practical experiences as a Performance Analyst at Marlborough Highways.
 
-*[Download the full Literature Review](./Individual_Work/Literature_Review_Outline/Literature_Review.docx)*  
-*[Download the Marker Feedback](./Individual_Work/Literature_Review_Outline/Reece_Lance_RRMP_Summative_Feedback_Template_(Literature_Review).pdf)*
+- [Download the full Literature Review](./Individual_Work/Literature_Review_Outline/Literature_Review.docx)  
+- [Download the Marker Feedback](./Individual_Work/Literature_Review_Outline/Reece_Lance_RRMP_Summative_Feedback_Template_(Literature_Review).pdf)
 
 ##### Feedback Received:
 - **Strengths**:
@@ -67,8 +67,8 @@ This presentation proposed a research project that builds directly upon the them
 
 The project outlines the problem context, proposed artefact (an interactive dashboard), methodology (cross-sector review, interviews, and comparative analysis), and practical outputs for real-world implementation in line with current government digital transformation goals.
 
-*[Download the Slide Deck (PowerPoint)](./Individual_Work/Research_Proposal_Evaluation/Research-Proposal-Presentation.pptx)*  
-*[Download the Full Script (Transcript)](./Individual_Work/Research_Proposal_Evaluation/Research-Proposal-Script.docx)*
+- [Download the Slide Deck (PowerPoint)](./Individual_Work/Research_Proposal_Evaluation/Research-Proposal-Presentation.pptx)  
+- [Download the Full Script (Transcript)](./Individual_Work/Research_Proposal_Evaluation/Research-Proposal-Script.docx)
 
 ##### Evaluation of Work
 
@@ -76,22 +76,16 @@ Although feedback has not yet been received, the structure and delivery of this 
 
 ---
 
-
-
----
-
 ### Statistics and Analysis Tasks
 
 #### Overview
 
-This section includes my practical work on statistics from Units 8–10. Artefacts include exploratory data analysis, data visualisation, and hypothesis testing. These were completed using Python and support the development of data analysis competence aligned to research design.
+This section includes my practical work on statistics from Units 8–10. Artefacts include exploratory data analysis, data visualisation, and hypothesis testing using Python, demonstrating analytical competencies that support research design.
 
-*[Examples of my work](./Statistics_Work/README.md)*
+- [Charts and Visualisation Worksheet](./Statistics_Work/Charts_Worksheet/README.md)  
+- [Inferential Statistics Worksheet Summary](./Statistics_Work/Statistical_Worksheets_Summary.md)
 
-Here is the [Exploratory Data Analysis Notebook](./Statistics_Work/Unit_8_EDA.ipynb)  
-Here is the [Statistical Testing Notebook](./Statistics_Work/Unit_9_Tests.ipynb)  
-Here is the [Charts and Visualisation Worksheet](./Statistics_Work/Charts_Worksheet/README.md)  
-Here is the [Inferential Statistics Worksheet Summary](./Statistics_Work/Statistical_Worksheets_Summary.md)
+(*Additional statistics worksheets will be added if completed retroactively.*)
 
 ---
 
@@ -99,9 +93,9 @@ Here is the [Inferential Statistics Worksheet Summary](./Statistics_Work/Statist
 
 A summary of key learning activities and reflective moments during seminars and peer review:
 
-- **Seminar 2 (Peer Review):** Shared draft proposal with peers, received feedback on narrowing the focus of the research question.
-- **Seminar 3 (Privacy Case Study):** Discussed issues of data protection and privacy in academic research, reinforcing the importance of anonymisation and secure storage.
-- **Seminar 4 (Statistics Workshop):** Explored inferential methods and data interpretation.
+- **Seminar 2 (Peer Review):** Shared draft proposal with peers, received feedback on narrowing the focus of the research question.  
+- **Seminar 3 (Privacy Case Study):** Discussed issues of data protection and privacy in academic research, reinforcing the importance of anonymisation and secure storage.  
+- **Seminar 4 (Statistics Workshop):** Explored inferential methods and data interpretation.  
 - **Unit 11 (e-Portfolio Planning):** Finalised structure and checked alignment with learning outcomes.
 
 ---
@@ -110,10 +104,10 @@ A summary of key learning activities and reflective moments during seminars and 
 
 An overview of reflective and formative activities completed during the module:
 
-- [Reflective Activity 1 – Ethics in Computing](./Individual_Work/Reflection_Ethics/README.md)
-- [Case Study – Inappropriate Use of Surveys](./Individual_Work/Survey_Reflection/README.md)
-- [Wiki Activity – Designing Questionnaires](./Individual_Work/Questionnaire_Wiki/README.md)
-- [Privacy Case Study Summary](./Individual_Work/Privacy_Case_Study/README.md)
+- [Reflective Activity 1 – Ethics in Computing](./Individual_Work/Reflection_Ethics/README.md)  
+- [Case Study – Inappropriate Use of Surveys](./Individual_Work/Survey_Reflection/README.md)  
+- [Wiki Activity – Designing Questionnaires](./Individual_Work/Questionnaire_Wiki/README.md)  
+- [Privacy Case Study Summary](./Individual_Work/Privacy_Case_Study/README.md)  
 - [Charts Worksheet Submission](./Statistics_Work/Charts_Worksheet/README.md)
 
 ---
@@ -126,10 +120,10 @@ An overview of reflective and formative activities completed during the module:
 
 Key points from my [Full Reflective Piece (1000 words)](./Professional_Development/Reflection.md):
 
-- **Ethics & Responsibility:** Gained confidence in ethical approval processes and awareness of responsibilities in research involving human participants.
-- **Statistical Development:** Learned how to apply exploratory and inferential statistical techniques to structured data.
-- **Academic Research Skills:** Improved ability to identify research gaps, refine questions, and use peer-reviewed literature effectively.
-- **Professional Growth:** Used self-assessment tools (SWOT and Skills Matrix) to reflect on strengths and areas for improvement.
+- **Ethics & Responsibility:** Gained confidence in ethical approval processes and awareness of responsibilities in research involving human participants.  
+- **Statistical Development:** Learned how to apply exploratory and inferential statistical techniques to structured data.  
+- **Academic Research Skills:** Improved ability to identify research gaps, refine questions, and use peer-reviewed literature effectively.  
+- **Professional Growth:** Used self-assessment tools (SWOT and Skills Matrix) to reflect on strengths and areas for improvement.  
 - **Practical Application:** Started applying academic research principles to early thinking for my MSc project.
 
 ---
@@ -156,5 +150,3 @@ To build on the skills developed during this module, I plan to:
 - Improve visualisation and presentation of results using libraries such as Seaborn and Plotly  
 - Seek peer feedback on future proposal drafts and integrate early ethics considerations  
 - Use GitHub e-Portfolios actively to document my ongoing professional development  
-
----

@@ -1,4 +1,4 @@
-# e-Portfolio Activity – Literature Review and Research Proposal Outlines
+# Literature Review and Research Proposal Outlines
 
 ---
 

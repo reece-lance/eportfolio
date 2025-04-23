@@ -59,7 +59,7 @@ This literature review evaluated visualisation approaches used in UK highway per
 **Title**: *Visualising Performance in UK Highway Maintenance: An Analysis of Innovative Approaches*  
 This project proposed the development of an interactive dashboard for public highway stakeholders and explored its value in decision-making.
 
-- [Download the Slide Deck (PowerPoint)](./Individual_Work/Research_Proposal_Evaluation/Research-Proposal-Presentation.pptx)  
+- [Download Research Proposal Presentation (Google Drive)](https://docs.google.com/uc?export=download&id=1dpDpOhbIj-hdoUaFRt5XmCUVuDeajYpU)
 - [Download the Transcript](./Individual_Work/Research_Proposal_Evaluation/Research-Proposal-Script.docx)
 
 ---

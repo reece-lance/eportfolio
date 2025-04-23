@@ -71,12 +71,14 @@ This project proposed the development of an interactive dashboard for public hig
 - [Unit 6 – Summary Measures Worksheet (PDF)](./Statistics_Work/Unit_6_Summary_Measures_Worksheet.pdf)
 - [Unit 7 – Hypothesis Testing Worksheet (PDF)](./Statistics_Work/Unit_7_Hypothesis_Testing_Worksheet.pdf)
 - [Unit 8 – Inference Notes (PDF)](./Statistics_Work/Unit_8_Inference_Notes.pdf)
+- [Unit 9 – Charts Worksheet (PDF)](./Statistics_Work/Unit_9_Charts_Worksheet.pdf)
 
 #### Worksheet Answers
 
 - [Unit 6 – Summary Measures Answers (Markdown)](./Statistics_Work/Unit_6_Summary_Measures_Answers.md)
 - [Unit 7 – Hypothesis Testing Answers (Markdown)](./Statistics_Work/Unit_7_Hypothesis_Testing_Answers.md)
 - [Unit 8 – Inference Activity Answers (Markdown)](./Statistics_Work/Unit_8_Inference_Answers.md)
+- [Unit 9 – Charts Worksheet Answers (Markdown)](./Statistics_Work/Unit_9_Charts_Answers.md)
 
 ---
 

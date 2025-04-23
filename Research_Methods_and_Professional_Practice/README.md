@@ -38,7 +38,7 @@ The Research Methods & Professional Practice module provides a practical foundat
 
 - [Literature Review and Research Proposal Outlines](./Individual_Work/Lit_Review_Outline_Activity/README.md)
 - [Research Proposal Review](./Individual_Work/Proposal_Review/README.md)
-- [Research Proposal Outline (Unit 8)](./Individual_Work/Proposal_Outline/README.md)
+- [Research Proposal Outline](./Individual_Work/Proposal_Outline/README.md)
 
 ---
 

@@ -66,9 +66,17 @@ This project proposed the development of an interactive dashboard for public hig
 
 ### Statistics and Analysis Tasks
 
-- [Inferential Statistics Workshop Worksheet Summary](./Statistics_Work/Statistical_Worksheets_Summary.md)
-- [Charts and Visualisation Worksheet](./Statistics_Work/Charts_Worksheet/README.md)
-- [Statistical Worksheet Submissions](./Statistics_Work/All_Worksheets_Submitted.md) <!-- Replace with correct file if needed -->
+#### Worksheets
+
+- [Unit 6 – Summary Measures Worksheet (PDF)](./Statistics_Work/Unit_6_Summary_Measures_Worksheet.pdf)
+- [Unit 7 – Hypothesis Testing Worksheet (PDF)](./Statistics_Work/Unit_7_Hypothesis_Testing_Worksheet.pdf)
+- [Unit 8 – Inference Notes (PDF)](./Statistics_Work/Unit_8_Inference_Notes.pdf)
+
+#### Worksheet Answers
+
+- [Unit 6 – Summary Measures Answers (Markdown)](./Statistics_Work/Unit_6_Summary_Measures_Answers.md)
+- [Unit 7 – Hypothesis Testing Answers (Markdown)](./Statistics_Work/Unit_7_Hypothesis_Testing_Answers.md)
+- [Unit 8 – Inference Activity Answers (Markdown)](./Statistics_Work/Unit_8_Inference_Answers.md)
 
 ---
 

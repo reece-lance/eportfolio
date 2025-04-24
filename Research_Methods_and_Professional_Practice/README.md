@@ -23,12 +23,11 @@ The Research Methods & Professional Practice module provides a practical foundat
 
 ### Collaborative Discussion Forum Summary
 
-- [Collaborative Discussion 1 – Ethics and Professional Practice](./Collaborative_Discussions/Discussion_1_Ethics/README.md)
-<!-- Collaborative Discussion 2: Not submitted -->
+- [Collaborative Discussion – Ethics and Professional Practice](./Collaborative_Discussions/Discussion_1_Ethics/README.md)
 
 ---
 
-### Reflective Activity 1: Ethics in Computing
+### Reflective Activity: Ethics in Computing
 
 - [Reflective Piece – Ethics in Computing](./Individual_Work/Reflection_Ethics/README.md)
 

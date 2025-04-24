@@ -27,24 +27,24 @@ This discussion took place across Units 1 to 3 and focused on analysing ethical 
 
 ## Key Themes and Reflections
 
-### 🧭 Ethical Considerations
+### Ethical Considerations
 
 - I referenced ACM principles on harm avoidance, honesty, and fairness (1.1–1.4), arguing that dark UX practices breach these codes by misleading users and undermining trust.
 - BCS codes were used to demonstrate failure to uphold accessibility and transparency, particularly around public welfare and equal access to IT.
 - Peer feedback, especially from Christopher and Anda, reinforced the importance of whistleblowing and standardised ethical design frameworks within organisations.
 
-### ⚖️ Legal and Social Implications
+### Legal and Social Implications
 
 - Discussions cited the **Consumer Protection from Unfair Trading Regulations (2008)** and the **Equality Act (2010)** as relevant legislation violated by deceptive UX strategies.
 - I introduced the **UK Digital Markets, Competition and Consumer Bill (2023)** and recent **FTC crackdowns** on dark patterns, noting that legal enforcement often struggles to keep pace with evolving manipulation tactics.
 - Several peers, including Anda and Mohammed, expanded the scope to **AI-driven manipulation**, noting that future regulation must also address machine learning systems nudging user decisions.
 
-### 🧑‍💼 Professionalism and Accountability
+### Professionalism and Accountability
 
 - We explored the role of internal ethical review boards and whistleblowing protections to support ethical resistance in corporate settings.
 - I advocated for a positive use of AI in enhancing transparency rather than exploiting user behaviour — building systems that guide rather than deceive.
 
-### 📚 Critical Engagement and Literature Used
+### Critical Engagement and Literature Used
 
 - Across my posts and responses, I integrated a range of sources including the ACM/BCS codes, academic articles on UX and AI ethics (e.g., Gray et al., 2018; Petropoulos, 2022), and legislation from both UK and EU contexts.
 - Norman & Nielsen’s (2020) “The Design of Everyday Things” was referenced to justify how design psychology plays a central role in user trust and manipulation.

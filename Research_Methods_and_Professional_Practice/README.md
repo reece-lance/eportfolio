@@ -82,13 +82,6 @@ This project proposed the development of an interactive dashboard for public hig
 
 ---
 
-### Seminar Reflections
-
-- **Seminar 4**: Covered inferential statistics and practical worksheet tasks  
-- **Seminar 6**: Focused on preparing and structuring this e-Portfolio
-
----
-
 ## Professional Development Plan
 
 ---

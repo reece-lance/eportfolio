@@ -16,7 +16,7 @@ This activity involved the creation of a structured outline for my research prop
 
 ## Research Context
 
-The outline was developed to extend the topic explored in my literature review, focusing on the role of advanced data visualisation tools — such as dashboards, geospatial mapping, and scenario modelling — in enhancing transparency and stakeholder decision-making in the public infrastructure sector.
+The outline was developed to extend the topic explored in my literature review, focusing on the role of advanced data visualisation tools - such as dashboards, geospatial mapping, and scenario modelling - in enhancing transparency and stakeholder decision-making in the public infrastructure sector.
 
 ---
 

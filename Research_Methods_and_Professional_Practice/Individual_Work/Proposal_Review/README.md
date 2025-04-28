@@ -19,7 +19,7 @@ The topic for my proposal, *"Visualising Performance in UK Highway Maintenance: 
 During my review of the draft, I focused on the following areas:
 
 - **Research Clarity**: I refined my research question to ensure it was specific, feasible, and clearly aligned with real-world problems in public infrastructure reporting.
-- **Methodological Rigor**: I evaluated whether my proposed mixed-method approach — including comparative analysis and stakeholder interviews — was realistic and appropriately justified.
+- **Methodological Rigor**: I evaluated whether my proposed mixed-method approach - including comparative analysis and stakeholder interviews - was realistic and appropriately justified.
 - **Ethical Considerations**: I ensured that data protection, consent, and anonymisation practices were sufficiently addressed, especially as the project relates to public data.
 - **Timeline and Outputs**: I reviewed the project timeline for practicality and revised it slightly to allow more time for stakeholder engagement and artefact design.
 

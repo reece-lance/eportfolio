@@ -63,4 +63,5 @@ In conclusion, I have noticed improvements in my proficiency on a technical leve
 - Wentzel, M., no date. Principles versus rules in professional ethics. *Chartered Accountants Worldwide.* Available at: https://charteredaccountantsworldwide.com/principles-versus-rules-professional-ethics/.
 
 - Cabinet Office, 2021. *Ethics, transparency and accountability framework for automated decision-making.* [online] GOV.UK. Available at: https://www.gov.uk/government/publications/ethics-transparency-and-accountability-framework-for-automated-decision-making/ethics-transparency-and-accountability-framework-for-automated-decision-making.
+
 - Reed, M.S., Ferré, M., Martin-Ortega, J., Blanche, R., Lawford-Rolfe, R., Dallimer, M. and Holden, J., 2021. Evaluating impact from research: A methodological framework. *Research Policy*, 50(4), p.104147. Available at: https://doi.org/10.1016/j.respol.2020.104147.
